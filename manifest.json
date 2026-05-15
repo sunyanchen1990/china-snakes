@@ -1,0 +1,24 @@
+{
+  "name": "中国境内蛇类资料速查",
+  "short_name": "蛇类速查",
+  "description": "中国境内蛇类资料离线速查与急救参考",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050908",
+  "theme_color": "#050908",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

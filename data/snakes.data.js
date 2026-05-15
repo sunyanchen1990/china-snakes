@@ -1,0 +1,8915 @@
+window.CN_VIPER_DATA = {
+    "meta": {
+        "title": "中国境内蛇类资料库",
+        "note": "共 152 种中国境内蛇类（剧毒、微毒、无毒），仅供科普检索，蛇伤请立即就医。",
+        "source": "snake.pictureknow.com",
+        "imagesLocal": true,
+        "imagesMirroredAt": "2026-05-15"
+    },
+    "snakes": [
+        {
+            "id": "snake-001",
+            "uniqueId": "74b046ff50044584b80a5e19c612308f",
+            "cnName": "银环蛇",
+            "sciName": "Bungarus multicinctus",
+            "enName": "Many-banded krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触前神经毒+突触后神经毒,银环蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "夜行性陆生蛇。白天会躲在石头下或洞里。在有水的周围活动。受到惊扰时，会松散地盘绕身体，将头藏在身体下面。除非受到持续的挑衅，否则不愿咬人。",
+            "diet": "主要以蛇为食，但偶尔也会以鳗鱼、鱼和青蛙为食。",
+            "size": "约 1.5 m",
+            "teeth": "前沟牙",
+            "distribution": "福建,台湾,江西,浙江,安徽,湖北,湖南,广东,香港,澳门,海南,广西,云南,贵州,重庆",
+            "disImg": "assets/images/species/snake-001/dis.png",
+            "provinces": [
+                "福建省",
+                "台湾省",
+                "江西省",
+                "浙江省",
+                "安徽省",
+                "湖北省",
+                "湖南省",
+                "广东省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "重庆市"
+            ],
+            "cover": "assets/images/species/snake-001/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-001/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-001/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-001/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-001/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-001/5.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-001/6.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-002",
+            "uniqueId": "4ca82904e79f4ec0b234e052d8a23fa1",
+            "cnName": "眼镜王蛇",
+            "sciName": "Ophiophagus hannah",
+            "enName": "King Cobra",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒素+普通血循毒,眼镜蛇血清+银环蛇血清",
+            "bite": "局部疼痛，严重肿胀，坏死。可能会头痛，恶心，呕吐，腹痛，腹泻，头晕。 肌肉麻痹，严重可导致急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。如果受到惊扰，会逃到掩体中，但在孵化时会有很强的攻击性。如果受到挑衅或被逼入绝境，同样有很强的攻击性。它会抬起头，然后扁脖子，发出咆哮般的声音进行防御。",
+            "diet": "几乎完全以蛇为食，偶尔也吃蜥蜴。",
+            "size": "约 4 m",
+            "teeth": "前沟牙",
+            "distribution": "浙江,福建,江西,湖南,海南,广西,广东,四川,贵州,云南,西藏,香港",
+            "disImg": "assets/images/species/snake-002/dis.png",
+            "provinces": [
+                "浙江省",
+                "福建省",
+                "江西省",
+                "湖南省",
+                "海南省",
+                "广西壮族自治区",
+                "广东省",
+                "四川省",
+                "贵州省",
+                "云南省",
+                "西藏自治区",
+                "香港特别行政区"
+            ],
+            "cover": "assets/images/species/snake-002/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-002/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-002/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-002/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-002/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-002/5.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-003",
+            "uniqueId": "177e11fb1b2345a986e5e0efd2878fd1",
+            "cnName": "原矛头蝮",
+            "sciName": "Protobothrops mucrosquamatus",
+            "enName": "Brown spotted pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏抗凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，严重肿胀，淤青，起泡，坏死。凝血功能障碍，出血症导致出血。肾功能衰竭。",
+            "habit": "在海拔约1400米的开阔森林地区，特别是竹林、农业区和靠近溪流的茶园活动。会在巢穴附近活动，偶尔也会远离巢穴去寻找猎物。",
+            "diet": "主要以啮齿动物、鸟类、蛇、青蛙和食虫动物为食。",
+            "size": "40 - 80 cm",
+            "teeth": "管牙",
+            "distribution": "浙江,安徽,福建,云南,四川,贵州,重庆,广西,广东,香港,海南,台湾,江西,湖南,河南,陕西,甘肃",
+            "disImg": "assets/images/species/snake-003/dis.png",
+            "provinces": [
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "云南省",
+                "四川省",
+                "贵州省",
+                "重庆市",
+                "广西壮族自治区",
+                "广东省",
+                "香港特别行政区",
+                "海南省",
+                "台湾省",
+                "江西省",
+                "湖南省",
+                "河南省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-003/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-003/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-003/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-003/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-003/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-003/5.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-003/6.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-004",
+            "uniqueId": "ab139189433b407e9ca3189b72a9b103",
+            "cnName": "白唇竹叶青蛇",
+            "sciName": "Trimeresurus albolabris",
+            "enName": "White-lipped Tree Viper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，淤青，起泡，轻微坏死。凝血功能障碍，出血症导致大量出血",
+            "habit": "夜行性和半树栖性，通常白天在树上活动，夜里偶尔在地面活动。如果被触碰或靠得太近，会迅速咬人，宁愿发起攻击也不逃跑。",
+            "diet": "主要以啮齿动物、蜥蜴、鸟类和青蛙为食。",
+            "size": "雄性: 40-60cm，雌性: 60-90cm",
+            "teeth": "管牙",
+            "distribution": "香港,澳门,广东,广西,海南,福建,云南,贵州,江西",
+            "disImg": "assets/images/species/snake-004/dis.png",
+            "provinces": [
+                "香港特别行政区",
+                "澳门特别行政区",
+                "广东省",
+                "广西壮族自治区",
+                "海南省",
+                "福建省",
+                "云南省",
+                "贵州省",
+                "江西省"
+            ],
+            "cover": "assets/images/species/snake-004/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-004/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-004/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-004/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-004/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-004/5.png",
+                    "desc": "刚出生的幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-004/6.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-005",
+            "uniqueId": "78f6dc2d6ff649bfb87e4c8b7ad82c39",
+            "cnName": "金环蛇",
+            "sciName": "Bungarus fasciatus",
+            "enName": "Banded krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触前神经毒+突触后神经毒,银环蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。\n\n",
+            "habit": "夜行性陆生蛇。白天会躲在石头下或洞里。在有水的周围活动。受到惊扰时，会松散地盘绕身体，将头藏在身体下面。除非受到持续的挑衅，否则不愿咬人。",
+            "diet": "主要以蛇为食，但偶尔也会以鳗鱼、鱼和青蛙为食。",
+            "size": "约 1.5 m",
+            "teeth": "前沟牙",
+            "distribution": "福建,广东,海南,云南,澳门,广西,江西,香港",
+            "disImg": "assets/images/species/snake-005/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "海南省",
+                "云南省",
+                "澳门特别行政区",
+                "广西壮族自治区",
+                "江西省",
+                "香港特别行政区"
+            ],
+            "cover": "assets/images/species/snake-005/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-005/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-005/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-005/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-005/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-005/5.png",
+                    "desc": "白色变异"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-006",
+            "uniqueId": "754cd6ec0ad845718dec8fe2020d47c4",
+            "cnName": "舟山眼镜蛇",
+            "sciName": "Naja atra",
+            "enName": "Chinese Cobra",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "大量细胞毒+突触后神经毒+少量溶血毒素,眼镜蛇血清",
+            "bite": "局部疼痛，严重肿胀，瘀伤，起泡，坏死。可能会头痛，恶心，呕吐，腹痛，腹泻，头晕。 肌肉麻痹，严重可导致急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。傍晚时分最为活跃。如果受到惊扰，往往会逃跑。但如果受到攻击，它会抬起头，然后扁脖子，必要时随时发起攻击。幼蛇更具攻击性。",
+            "diet": "主要以老鼠、青蛙和蟾蜍为食，但也会吃鸟、蛇和蛋。",
+            "size": "约 1.5 m",
+            "teeth": "前沟牙",
+            "distribution": "浙江,安徽,福建,江西,湖北,湖南,广东,广西,香港,海南,四川,贵州,云南,台湾",
+            "disImg": "assets/images/species/snake-006/dis.png",
+            "provinces": [
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "江西省",
+                "湖北省",
+                "湖南省",
+                "广东省",
+                "广西壮族自治区",
+                "香港特别行政区",
+                "海南省",
+                "四川省",
+                "贵州省",
+                "云南省",
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-006/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-006/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-006/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-006/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-006/4.png",
+                    "desc": "背纹"
+                },
+                {
+                    "img": "assets/images/species/snake-006/5.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-006/6.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-007",
+            "uniqueId": "9a6624adeb614396afb72961dc1bdd69",
+            "cnName": "福建竹叶青蛇",
+            "sciName": "Trimeresurus stejnegeri",
+            "enName": "Fujian green pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，淤青，起泡，轻微坏死。凝血功能障碍，出血症导致大量出血",
+            "habit": "夜行性和半树栖性，通常白天在树上活动，夜里偶尔在地面活动。如果被触碰或靠得太近，会迅速咬人，宁愿发起攻击也不逃跑",
+            "diet": "主要以啮齿动物、蜥蜴、鸟类和青蛙为食。",
+            "size": "雄性: 40-60cm，雌性: 60-90cm",
+            "teeth": "管牙",
+            "distribution": "福建",
+            "disImg": "assets/images/species/snake-007/dis.png",
+            "provinces": [
+                "福建省"
+            ],
+            "cover": "assets/images/species/snake-007/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-007/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-007/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-007/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-007/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-007/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-008",
+            "uniqueId": "021a13b9c06b49fca86751f3d04eb049",
+            "cnName": "海勒颈槽蛇",
+            "sciName": "Rhabdophis helleri",
+            "enName": "Heller’s Red-necked Keelback",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "强凝血毒素,五步蛇血清+蝮蛇血清",
+            "bite": "局部疼痛，肿胀，淤青。凝血功能障碍。颈部红色部分可分泌毒素。",
+            "habit": "主要在陆地和白天活动，但也会在水中游动。性情温顺，受到惊扰，通常会紧贴地面，但是受到挑衅，它会发起攻击。",
+            "diet": "主要以青蛙、蟾蜍、小型哺乳动物和鱼类为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "海南, 广西, 广东, 香港, 福建, 江西, 云南, 贵州, 四川",
+            "disImg": "assets/images/species/snake-008/dis.png",
+            "provinces": [
+                "海南省",
+                "广西壮族自治区",
+                "广东省",
+                "香港特别行政区",
+                "福建省",
+                "江西省",
+                "云南省",
+                "贵州省",
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-008/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-008/1.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-008/2.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-008/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-008/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-009",
+            "uniqueId": "82046a522ac3463fbe4f7c5bdff0340e",
+            "cnName": "越南烙铁头蛇",
+            "sciName": "Ovophis tonkinensis",
+            "enName": "Tonkin pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，轻微坏死。凝血功能障碍",
+            "habit": "陆生，主要在夜间活动。通常保持静止并随时准备攻击，一般温顺，但如果受到惊扰，也会迅速咬人",
+            "diet": "主要以啮齿动物、蜥蜴、小型哺乳动物和食虫动物为食。",
+            "size": "雄性: 30-40cm，雌性: 50-60cm",
+            "teeth": "管牙",
+            "distribution": "广西,广东,海南,香港",
+            "disImg": "assets/images/species/snake-009/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省",
+                "海南省",
+                "香港特别行政区"
+            ],
+            "cover": "assets/images/species/snake-009/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-009/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-009/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-009/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-009/4.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-009/5.png",
+                    "desc": "亚成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-010",
+            "uniqueId": "f330b2d07c704432bc5d1e90964d751e",
+            "cnName": "中华珊瑚蛇",
+            "sciName": "Sinomicrurus macclellandi",
+            "enName": "Macclelland's coral snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "神经毒,银环蛇血清",
+            "bite": "局部疼痛。肌肉麻痹，严重可导致瘫痪，急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。通常在软土或腐烂植物中活动。性情温顺，如果受到惊扰，会抬起并卷起尾巴。但是受到挑衅，它会发起攻击。",
+            "diet": "主要以小蛇、蜥蜴为食。",
+            "size": "约 50 cm",
+            "teeth": "前沟牙",
+            "distribution": "安徽,重庆,福建,甘肃,广东,广西,贵州,海南,湖南,江苏,江西,陕西,四川,台湾,香港,西藏,云南,浙江,湖北,河南",
+            "disImg": "assets/images/species/snake-010/dis.png",
+            "provinces": [
+                "安徽省",
+                "重庆市",
+                "福建省",
+                "甘肃省",
+                "广东省",
+                "广西壮族自治区",
+                "贵州省",
+                "海南省",
+                "湖南省",
+                "江苏省",
+                "江西省",
+                "陕西省",
+                "四川省",
+                "台湾省",
+                "香港特别行政区",
+                "西藏自治区",
+                "云南省",
+                "浙江省",
+                "湖北省",
+                "河南省"
+            ],
+            "cover": "assets/images/species/snake-010/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-010/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-010/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-010/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-010/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-010/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-011",
+            "uniqueId": "4d4e829efa314c2c9874d1ac987b26a0",
+            "cnName": "中介蝮",
+            "sciName": "Gloydius intermedius",
+            "enName": "Amur pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+少量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起水泡，甚至坏死。凝血功能障碍，出血症导致大量出血。肾衰竭。",
+            "habit": "陆生，主要在夜间活动。",
+            "diet": "主要以啮齿动物，蜥蜴，青蛙和大型昆虫为食。",
+            "size": "约 45 cm",
+            "teeth": "管牙",
+            "distribution": "黑龙江,吉林,辽宁,内蒙古",
+            "disImg": "assets/images/species/snake-011/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "吉林省",
+                "辽宁省",
+                "内蒙古自治区"
+            ],
+            "cover": "assets/images/species/snake-011/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-011/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-011/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-011/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-011/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-011/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-011/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-012",
+            "uniqueId": "116ba55d011046ceab0e31f9488a9556",
+            "cnName": "坡普竹叶青蛇",
+            "sciName": "Trimeresurus popeiorum",
+            "enName": "Pope's tree viper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，淤青，起泡，轻微坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "夜行性和半树栖性。如果被触碰或靠得太近，会迅速咬人，宁愿发起攻击也不逃跑。",
+            "diet": "主要以啮齿动物，蜥蜴，鸟类和青蛙为食。",
+            "size": "约 40 cm",
+            "teeth": "管牙",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-012/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-012/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-012/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-012/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-012/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-012/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-012/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-013",
+            "uniqueId": "7006f0e7bee74033aa680d413cd63e8e",
+            "cnName": "短尾蝮",
+            "sciName": "Gloydius brevicauda",
+            "enName": "Short-tailed pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+少量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。凝血功能障碍，出血症导致大量出血。肌肉麻痹，严重可导致瘫痪，急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。性情温顺。受到惊扰，会盘成团，如果受到挑衅，会摇动尾巴，随时发起攻击。",
+            "diet": "主要以啮齿动物和青蛙为食，也会捕食蜥蜴，鸟类和鱼类。",
+            "size": "约 45 cm",
+            "teeth": "管牙",
+            "distribution": "北京,天津,河北,辽宁,山西,山东,河南,陕西,甘肃,四川,重庆,云南,贵州,湖北,湖南,安徽,江西,江苏,上海,浙江,福建,台湾",
+            "disImg": "assets/images/species/snake-013/dis.png",
+            "provinces": [
+                "北京市",
+                "天津市",
+                "河北省",
+                "辽宁省",
+                "山西省",
+                "山东省",
+                "河南省",
+                "陕西省",
+                "甘肃省",
+                "四川省",
+                "重庆市",
+                "云南省",
+                "贵州省",
+                "湖北省",
+                "湖南省",
+                "安徽省",
+                "江西省",
+                "江苏省",
+                "上海市",
+                "浙江省",
+                "福建省",
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-013/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-013/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-013/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-013/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-013/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-013/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-014",
+            "uniqueId": "077ca911a06d4c1bb6942f5fabe3dbc4",
+            "cnName": "尖吻蝮",
+            "sciName": "Deinagkistrodon acutus",
+            "enName": "Sharp-snouted pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "抗凝血型血循毒+少量凝血毒,五步蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "陆生，行动迟缓，性情温顺，受到惊扰，会保持盘绕攻击的姿势。受到挑衅，会立即猛烈发起攻击。",
+            "diet": "主要以老鼠，青蛙，蟾蜍，蜥蜴和鸟类为食。",
+            "size": "约 1.2 m",
+            "teeth": "管牙",
+            "distribution": "浙江,安徽,福建,台湾,江西,湖北,湖南,广东,广西,重庆,贵州,云南",
+            "disImg": "assets/images/species/snake-014/dis.png",
+            "provinces": [
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "台湾省",
+                "江西省",
+                "湖北省",
+                "湖南省",
+                "广东省",
+                "广西壮族自治区",
+                "重庆市",
+                "贵州省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-014/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-014/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-014/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-014/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-014/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-014/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-015",
+            "uniqueId": "b7c3b494d5a54e9a9b96e473d99d745f",
+            "cnName": "西南眼镜蛇",
+            "sciName": "Naja fuxi",
+            "enName": "Brown Banded Cobra",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "细胞毒+突触后神经毒+少量溶血毒素,眼镜蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。肌肉麻痹，严重可导致瘫痪，急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。受到惊扰，会逃到掩体中。如果受到挑衅或被逼入绝境，它会抬起头，然后扁脖子，随时准备发起攻击。",
+            "diet": "主要以蟾蜍和青蛙为食，但也会吃蛇，小型哺乳动物，偶尔也会吃鱼。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "四川,云南",
+            "disImg": "assets/images/species/snake-015/dis.png",
+            "provinces": [
+                "四川省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-015/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-015/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-015/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-015/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-015/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-015/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-016",
+            "uniqueId": "d99afc0d8dcf47dfb57887c54c152716",
+            "cnName": "角原矛头蝮",
+            "sciName": "Protobothrops cornutus",
+            "enName": "Horned pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+少量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，瘀伤，起水泡，甚至坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "陆生，主要在夜间活动，会爬上树寻找猎物。",
+            "diet": "主要以蜥蜴和青蛙为食，但也会捕食鸟类、小型哺乳动物和大型昆虫。",
+            "size": "约 50 cm",
+            "teeth": "管牙",
+            "distribution": "广西,广东,福建,贵州,浙江",
+            "disImg": "assets/images/species/snake-016/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省",
+                "福建省",
+                "贵州省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-016/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-016/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-016/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-016/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-016/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-016/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-016/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-017",
+            "uniqueId": "0a449ff24dda4db39bb5e43e7bd38469",
+            "cnName": "孟加拉眼镜蛇",
+            "sciName": "Naja kaouthia",
+            "enName": "Monocled cobra",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "细胞毒素+突触后神经毒+少量溶血毒素,眼镜蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。肌肉麻痹，严重可导致瘫痪，急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。受到惊扰，会逃到掩体中。如果受到挑衅或被逼入绝境，它会抬起头，然后扁脖子，随时准备发起攻击。",
+            "diet": "主要以蟾蜍和青蛙为食，但也会吃蛇，小型哺乳动物，偶尔也会吃鱼。",
+            "size": "约 1 m",
+            "teeth": "前沟牙",
+            "distribution": "四川,云南,广西,西藏,贵州",
+            "disImg": "assets/images/species/snake-017/dis.png",
+            "provinces": [
+                "四川省",
+                "云南省",
+                "广西壮族自治区",
+                "西藏自治区",
+                "贵州省"
+            ],
+            "cover": "assets/images/species/snake-017/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-017/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-017/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-017/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-017/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-017/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-018",
+            "uniqueId": "4328ff2e7a344e98b17adc055a7a1060",
+            "cnName": "虎斑颈槽蛇",
+            "sciName": "Rhabdophis tigrinus",
+            "enName": "Tiger groove-neck",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "强凝血毒素,五步蛇血清+蝮蛇血清",
+            "bite": "局部疼痛，肿胀，淤青。凝血功能障碍。颈部红色部分可分泌毒素。",
+            "habit": "主要在陆地和白天活动。受到挑衅，会放平前身并抬起脖子，准备发起攻击。",
+            "diet": "主要以青蛙为食，偶尔也吃蟾蜍和鱼。",
+            "size": "约 65 cm",
+            "teeth": "",
+            "distribution": "黑龙江,吉林,辽宁,内蒙古,河北,北京,天津,山东,江苏,上海,安徽,河南,山西,陕西,宁夏,甘肃,青海,西藏,云南,贵州,四川,重庆,广西,湖北,湖南,江西,浙江,福建,台湾",
+            "disImg": "assets/images/species/snake-018/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "吉林省",
+                "辽宁省",
+                "内蒙古自治区",
+                "河北省",
+                "北京市",
+                "天津市",
+                "山东省",
+                "江苏省",
+                "上海市",
+                "安徽省",
+                "河南省",
+                "山西省",
+                "陕西省",
+                "宁夏回族自治区",
+                "甘肃省",
+                "青海省",
+                "西藏自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "广西壮族自治区",
+                "湖北省",
+                "湖南省",
+                "江西省",
+                "浙江省",
+                "福建省",
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-018/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-018/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-018/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-018/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-018/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-018/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-019",
+            "uniqueId": "19d66c24e1394b11836c06e1ab5e6e8a",
+            "cnName": "泰国圆斑蝰",
+            "sciName": "Daboia siamensis",
+            "enName": "Eastern russel's viper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "强凝血型血循毒,五步蛇血清+蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，坏死。凝血功能障碍，出血症导致大量出血。肾衰竭。",
+            "habit": "陆生，主要在夜间活动。傍晚时分最为活跃。受到惊扰，会发出嘶嘶声，并采取攻击姿势。如果它攻击，会用力攻击，造成严重的咬伤。",
+            "diet": "主要以啮齿动物，蜥蜴和青蛙为食。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "福建,台湾,广东,广西,云南,湖南",
+            "disImg": "assets/images/species/snake-019/dis.png",
+            "provinces": [
+                "福建省",
+                "台湾省",
+                "广东省",
+                "广西壮族自治区",
+                "云南省",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-019/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-019/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-019/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-019/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-019/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-019/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-019/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-020",
+            "uniqueId": "2a2fe2817a814b0886b837a2b532e10d",
+            "cnName": "马来环蛇",
+            "sciName": "Bungarus candidus",
+            "enName": "Blue krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触前神经毒+突触后神经毒,银环蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "夜行性陆生蛇，性情温顺。受到惊扰时，会松散地盘绕身体，将头藏在身体下面。除非受到持续的挑衅，否则它不会咬人。",
+            "diet": "主要以蛇为食，偶尔也会以小型哺乳动物，蜥蜴和青蛙为食。",
+            "size": "约 80 cm",
+            "teeth": "前沟牙",
+            "distribution": "云南,贵州,广西,广东,福建",
+            "disImg": "assets/images/species/snake-020/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "广西壮族自治区",
+                "广东省",
+                "福建省"
+            ],
+            "cover": "assets/images/species/snake-020/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-020/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-020/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-020/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-020/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-021",
+            "uniqueId": "90a48462d31440de8a1766dfdd312be3",
+            "cnName": "东方蝰",
+            "sciName": "Vipera renardi",
+            "enName": "Steppe viper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏抗凝血型血循毒+突触后神经毒素,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，瘀伤，休克，甚至坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "陆生，主要在白天活动，性情温顺。",
+            "diet": "主要以小型啮齿动物和蜥蜴为食。",
+            "size": "约 25 cm",
+            "teeth": "",
+            "distribution": "新疆",
+            "disImg": "assets/images/species/snake-021/dis.png",
+            "provinces": [
+                "新疆维吾尔自治区"
+            ],
+            "cover": "assets/images/species/snake-021/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-021/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-021/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-021/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-021/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-021/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-022",
+            "uniqueId": "a4f8fc0cfd004af68617ff1260ff8e2b",
+            "cnName": "菜花原矛头蝮",
+            "sciName": "Protobothrops jerdonii",
+            "enName": "Jerdon's pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+少量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。凝血功能障碍，出血症导致大量出血。肾衰竭。",
+            "habit": "陆生，主要在白天活动，喜欢在树上活动。",
+            "diet": "主要以小型爬行动物，青蛙，鸟类和啮齿动物为食。",
+            "size": "约 55 cm",
+            "teeth": "管牙",
+            "distribution": "山西,河南,湖北,四川,贵州,重庆,甘肃,广西,湖南,陕西,西藏,云南",
+            "disImg": "assets/images/species/snake-022/dis.png",
+            "provinces": [
+                "山西省",
+                "河南省",
+                "湖北省",
+                "四川省",
+                "贵州省",
+                "重庆市",
+                "甘肃省",
+                "广西壮族自治区",
+                "湖南省",
+                "陕西省",
+                "西藏自治区",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-022/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-022/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-022/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-022/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-022/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-022/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-022/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-023",
+            "uniqueId": "d764f92866104751a178cd39b7320e21",
+            "cnName": "黑头蝰",
+            "sciName": "Azemiops feae",
+            "enName": "Black-headed feaviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+突触后神经毒,蝮蛇血清+银环蛇血清",
+            "bite": "局部疼痛，肿胀。",
+            "habit": "陆生，主要在夜间活动。在黄昏最为活跃。",
+            "diet": "主要以啮齿动物，蜥蜴和青蛙为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "云南,四川,西藏",
+            "disImg": "assets/images/species/snake-023/dis.png",
+            "provinces": [
+                "云南省",
+                "四川省",
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-023/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-023/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-023/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-023/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-023/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-024",
+            "uniqueId": "d4618164bcad486fbd1113e9d29c115a",
+            "cnName": "乌苏里蝮",
+            "sciName": "Gloydius ussuriensis",
+            "enName": "Ussuri pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+少量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，坏死。凝血功能障碍，出血症导致大量出血。肾衰竭。",
+            "habit": "陆生，主要在夜间活动。",
+            "diet": "主要以老鼠和青蛙为食，偶尔也以鱼，蜥蜴和蛇为食。",
+            "size": "约 40 cm",
+            "teeth": "管牙",
+            "distribution": "黑龙江,吉林,辽宁",
+            "disImg": "assets/images/species/snake-024/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "吉林省",
+                "辽宁省"
+            ],
+            "cover": "assets/images/species/snake-024/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-024/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-024/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-024/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-024/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-024/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-025",
+            "uniqueId": "bccaae38b7294442a78f7bea0ebb7e64",
+            "cnName": "山烙铁头蛇",
+            "sciName": "Ovophis monticola",
+            "enName": "Mountain pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，坏死。凝血功能障碍，出血症导致大量出血。休克。",
+            "habit": "陆生，主要在夜间活动。行动迟缓，性情温顺，但是受到挑衅，它会发起攻击。",
+            "diet": "主要以啮齿动物，蜥蜴，小型哺乳动物和食虫动物为食。",
+            "size": "约 70 cm",
+            "teeth": "管牙",
+            "distribution": "西藏,云南,四川",
+            "disImg": "assets/images/species/snake-025/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-025/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-025/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-025/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-025/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-025/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-025/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-025/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-026",
+            "uniqueId": "b641bc17c0c54d03aba8940a338385f2",
+            "cnName": "西伯利亚蝮",
+            "sciName": "Gloydius halys",
+            "enName": "Halys pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+大量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，坏死。凝血功能障碍，出血症导致大量出血。肾衰竭和轻度瘫痪。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以蜥蜴，青蛙，啮齿动物，小蛇和小鸟为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "黑龙江,内蒙古,辽宁,新疆",
+            "disImg": "assets/images/species/snake-026/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "内蒙古自治区",
+                "辽宁省",
+                "新疆维吾尔自治区"
+            ],
+            "cover": "assets/images/species/snake-026/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-026/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-026/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-026/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-026/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-027",
+            "uniqueId": "c224536986324f64abaaf096781d9393",
+            "cnName": "台湾烙铁头蛇",
+            "sciName": "Ovophis makazayazaya",
+            "enName": "Taiwan mountain pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，坏死。凝血功能障碍，出血症导致大量出血。休克。",
+            "habit": "陆生，主要在夜间活动。行动迟缓，性情温顺，但是受到挑衅，它会发起攻击。",
+            "diet": "主要以啮齿动物，蜥蜴，小型哺乳动物和食虫动物为食。",
+            "size": "约 70 cm",
+            "teeth": "管牙",
+            "distribution": "台湾,福建,广东,广西,贵州,四川,重庆,湖南,湖北,江西,浙江,安徽,河南,陕西,甘肃",
+            "disImg": "assets/images/species/snake-027/dis.png",
+            "provinces": [
+                "台湾省",
+                "福建省",
+                "广东省",
+                "广西壮族自治区",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "浙江省",
+                "安徽省",
+                "河南省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-027/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-027/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-027/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-027/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-027/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-027/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-027/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-028",
+            "uniqueId": "0396b17d4e244f94bb5f8e7e087351fc",
+            "cnName": "极北蝰",
+            "sciName": "Vipera berus",
+            "enName": "Common adder",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏抗凝血型血循毒+突触后神经毒素,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，瘀伤，休克，甚至坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "陆生，温暖月份夜间活动，寒冷月份白天活动。性情温顺，但如果被逼入绝境或受到挑衅，会迅速而反复地发起攻击。",
+            "diet": "主要以小型哺乳动物为食，偶尔也捕食蜥蜴",
+            "size": "约 50 cm",
+            "teeth": "管牙",
+            "distribution": "吉林,新疆",
+            "disImg": "assets/images/species/snake-028/dis.png",
+            "provinces": [
+                "吉林省",
+                "新疆维吾尔自治区"
+            ],
+            "cover": "assets/images/species/snake-028/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-028/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-028/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-028/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-028/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-029",
+            "uniqueId": "49aba2f5250a494f965afe781fd9a5c2",
+            "cnName": "长岛蝮",
+            "sciName": "Gloydius changdaoensis",
+            "enName": "",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+大量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "树栖，主要在白天活动。",
+            "diet": "主要以鸟类为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "山东",
+            "disImg": "assets/images/species/snake-029/dis.png",
+            "provinces": [
+                "山东省"
+            ],
+            "cover": "assets/images/species/snake-029/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-029/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-029/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-029/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-029/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-029/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-030",
+            "uniqueId": "6716b1c52eba4824b799a8380dc2c514",
+            "cnName": "阿拉善蝮",
+            "sciName": "Gloydius cognatus",
+            "enName": "Alashan pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+大量突触前神经毒,蝮蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以蜥蜴，青蛙，啮齿动物，小蛇和小鸟为食。\n\n主要以蜥蜴，青蛙，啮齿动物，小蛇和小鸟为食。",
+            "size": "约 40 cm",
+            "teeth": "管牙",
+            "distribution": "甘肃,宁夏,青海,新疆,内蒙古",
+            "disImg": "assets/images/species/snake-030/dis.png",
+            "provinces": [
+                "甘肃省",
+                "宁夏回族自治区",
+                "青海省",
+                "新疆维吾尔自治区",
+                "内蒙古自治区"
+            ],
+            "cover": "assets/images/species/snake-030/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-030/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-030/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-030/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-030/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-031",
+            "uniqueId": "2c6716dfd16d49f08eb88f20bfda87dd",
+            "cnName": "白头蝰",
+            "sciName": "Azemiops kharini",
+            "enName": "White-headed feaviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "普通血循毒+突触后神经毒,蝮蛇血清+银环蛇血清",
+            "bite": "局部疼痛，肿胀。",
+            "habit": "陆生，主要在夜间活动。在黄昏最为活跃。",
+            "diet": "主要以啮齿动物，蜥蜴和青蛙为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "浙江,安徽,福建,江西,广西,四川,贵州,云南,陕西,甘肃,重庆,湖北,湖南,广东",
+            "disImg": "assets/images/species/snake-031/dis.png",
+            "provinces": [
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "江西省",
+                "广西壮族自治区",
+                "四川省",
+                "贵州省",
+                "云南省",
+                "陕西省",
+                "甘肃省",
+                "重庆市",
+                "湖北省",
+                "湖南省",
+                "广东省"
+            ],
+            "cover": "assets/images/species/snake-031/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-031/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-031/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-031/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-031/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-032",
+            "uniqueId": "dcd8006a742044079d59f04a6f6d8834",
+            "cnName": "莽山原矛头蝮",
+            "sciName": "Protobothrops mangshanensis",
+            "enName": "Mt.Mang pitviper",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "偏抗凝血型血循毒,蝮蛇血清+五步蛇血清",
+            "bite": "局部疼痛，肿胀，起泡，甚至坏死。凝血功能障碍，出血症导致大量出血。",
+            "habit": "陆生，主要在夜间活动，具有较强的树栖倾向。",
+            "diet": "主要以昆虫，哺乳动物和青蛙为食。",
+            "size": "约 1.4 m",
+            "teeth": "管牙",
+            "distribution": "湖南,广东",
+            "disImg": "assets/images/species/snake-032/dis.png",
+            "provinces": [
+                "湖南省",
+                "广东省"
+            ],
+            "cover": "assets/images/species/snake-032/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-032/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-032/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-032/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-032/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-033",
+            "uniqueId": "cc8e8fa9d5a049bd9c4229e22827b090",
+            "cnName": "半环扁尾海蛇",
+            "sciName": "Laticauda semifasciata",
+            "enName": "Wide-striped sea krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，即使被人抓住或激怒也不愿咬人。",
+            "diet": "主要以鱼类为食。",
+            "size": "约 70 cm",
+            "teeth": "前沟牙",
+            "distribution": "辽宁,福建,台湾",
+            "disImg": "assets/images/species/snake-033/dis.png",
+            "provinces": [
+                "辽宁省",
+                "福建省",
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-033/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-033/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-033/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-033/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-033/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-034",
+            "uniqueId": "fa8dcbc278474ab6a60a66a131873a41",
+            "cnName": "梭德氏华珊瑚蛇",
+            "sciName": "Sinomicrurus sauteri",
+            "enName": "Oriental coral snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "神经毒,银环蛇血清",
+            "bite": "局部疼痛。肌肉麻痹，严重可导致瘫痪，急性呼吸衰竭。",
+            "habit": "陆生，主要在夜间活动。性情温和且胆小。受到惊扰时会试图逃跑，只有在受到极大挑衅时才会咬人。",
+            "diet": "主要以较小的蛇为食，偶尔也会吃小蜥蜴。",
+            "size": "约 50 cm",
+            "teeth": "前沟牙",
+            "distribution": "台湾",
+            "disImg": "assets/images/species/snake-034/dis.png",
+            "provinces": [
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-034/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-034/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-034/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-034/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-034/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-035",
+            "uniqueId": "a992f13e30a74ff88580c46d87a72b35",
+            "cnName": "黑纹颈槽蛇",
+            "sciName": "Rhabdophis nigrocinctus",
+            "enName": "Black-banded groove-neck",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "强凝血毒素,五步蛇血清+蝮蛇血清\n",
+            "bite": "局部疼痛，肿胀，淤青。凝血功能障碍。颈部红色部分可分泌毒素。",
+            "habit": "陆生，主要在夜间活动。非常擅长游泳。",
+            "diet": "主要以蛙类，鱼类为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "云南,四川",
+            "disImg": "assets/images/species/snake-035/dis.png",
+            "provinces": [
+                "云南省",
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-035/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-035/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-035/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-035/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-035/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-036",
+            "uniqueId": "07c2e389fcf04b1e956379a19718181c",
+            "cnName": "棘鳞海蛇",
+            "sciName": "Hydrophis stokesii",
+            "enName": "Stoke's sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，如果受到挑衅，会变得具有攻击性，并且会反复咬人。",
+            "diet": "主要以鱼类，无脊椎动物为食。",
+            "size": "约 1 m",
+            "teeth": "前沟牙",
+            "distribution": "台湾",
+            "disImg": "assets/images/species/snake-036/dis.png",
+            "provinces": [
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-036/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-036/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-036/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-036/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-036/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-037",
+            "uniqueId": "77c1781b750a4278b2c68380162fd66b",
+            "cnName": "淡灰海蛇",
+            "sciName": "Hydrophis ornatus",
+            "enName": "Ornate reef sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，白天和夜间均活跃。",
+            "diet": "以鱼类为食。",
+            "size": "约 70 cm",
+            "teeth": "",
+            "distribution": "台湾,山东,广东,海南,广西",
+            "disImg": "assets/images/species/snake-037/dis.png",
+            "provinces": [
+                "台湾省",
+                "山东省",
+                "广东省",
+                "海南省",
+                "广西壮族自治区"
+            ],
+            "cover": "assets/images/species/snake-037/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-037/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-037/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-037/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-037/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-038",
+            "uniqueId": "763be1b4057848d3aedb2cd79a55c4b4",
+            "cnName": "龟头海蛇",
+            "sciName": "Emydocephalus ijimae",
+            "enName": "Turtlehead sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活。",
+            "diet": "主要以鱼子为食。",
+            "size": "约 50 cm",
+            "teeth": "前沟牙",
+            "distribution": "台湾",
+            "disImg": "assets/images/species/snake-038/dis.png",
+            "provinces": [
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-038/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-038/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-038/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-038/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-038/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-039",
+            "uniqueId": "dff3c22fdb1c45d7aa6fca90b675754d",
+            "cnName": "青环海蛇",
+            "sciName": "Hydrophis cyanocinctus",
+            "enName": "Blue-banded sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，受到挑衅时容易发怒并会咬人。",
+            "diet": "主要以鱼和鳗鱼为食。",
+            "size": "约 1.1 m",
+            "teeth": "前沟牙",
+            "distribution": "辽宁,上海,江苏,浙江,福建,台湾,广东,山东,海南,广西",
+            "disImg": "assets/images/species/snake-039/dis.png",
+            "provinces": [
+                "辽宁省",
+                "上海市",
+                "江苏省",
+                "浙江省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "山东省",
+                "海南省",
+                "广西壮族自治区"
+            ],
+            "cover": "assets/images/species/snake-039/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-039/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-039/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-039/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-039/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-040",
+            "uniqueId": "3e432508ca7043679689232b37632722",
+            "cnName": "蓝灰扁尾海蛇",
+            "sciName": "Laticauda colubrina",
+            "enName": "Yellow-lipped sea krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，即使被人触摸或激怒，也极不愿意咬人。",
+            "diet": "主要以鳗鱼和鱼为食。",
+            "size": "约 90 cm",
+            "teeth": "前沟牙",
+            "distribution": "台湾",
+            "disImg": "assets/images/species/snake-040/dis.png",
+            "provinces": [
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-040/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-040/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-040/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-040/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-040/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-041",
+            "uniqueId": "339a58d2225d4c7283af151b168b263b",
+            "cnName": "黑环蛇",
+            "sciName": "Bungarus niger",
+            "enName": "Greater black krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触前神经毒+突触后神经毒,银环蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "陆生，主要在夜间活动。性情温和。受到惊扰时，会盘绕身体，将头藏在身体下面。除非受到持续的挑衅，否则它不会咬人。",
+            "diet": "主要以蛇和小型哺乳动物为食，偶尔也吃蜥蜴，青蛙和鱼。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "西藏",
+            "disImg": "assets/images/species/snake-041/dis.png",
+            "provinces": [
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-041/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-041/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-041/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-041/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-041/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-042",
+            "uniqueId": "13320710bab240feb4363e1cb1ab4742",
+            "cnName": "扁尾海蛇",
+            "sciName": "Laticauda laticaudata",
+            "enName": "Black-lipped sea krait",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，即使被人触摸或激怒，也极不愿意咬人。",
+            "diet": "主要以鱼类为食。",
+            "size": "约 70 cm",
+            "teeth": "前沟牙",
+            "distribution": "福建,台湾",
+            "disImg": "assets/images/species/snake-042/dis.png",
+            "provinces": [
+                "福建省",
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-042/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-042/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-042/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-042/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-042/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-043",
+            "uniqueId": "f28f09f1da5e427186a1de3f7aec5eff",
+            "cnName": "棘眦海蛇",
+            "sciName": "Hydrophis peronii",
+            "enName": "Spiny-headed sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，如果受到挑衅就会咬人。",
+            "diet": "主要以鱼类为食。",
+            "size": "约 80 cm",
+            "teeth": "前沟牙",
+            "distribution": "台湾,香港,广东",
+            "disImg": "assets/images/species/snake-043/dis.png",
+            "provinces": [
+                "台湾省",
+                "香港特别行政区",
+                "广东省"
+            ],
+            "cover": "assets/images/species/snake-043/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-043/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-043/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-043/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-043/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-044",
+            "uniqueId": "64eb88b928d1466daa2a6d904c960890",
+            "cnName": "平颏海蛇",
+            "sciName": "Hydrophis curtus",
+            "enName": "Shaw's sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，如果受到挑衅，会变得非常具有攻击性。",
+            "diet": "主要以鱼类，无脊椎动物为食。",
+            "size": "约 70 cm",
+            "teeth": "前沟牙",
+            "distribution": "福建,台湾,山东",
+            "disImg": "assets/images/species/snake-044/dis.png",
+            "provinces": [
+                "福建省",
+                "台湾省",
+                "山东省"
+            ],
+            "cover": "assets/images/species/snake-044/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-044/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-044/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-044/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-044/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-045",
+            "uniqueId": "e6fd05449d8c4dc88f5301b5a6a548df",
+            "cnName": "长吻海蛇",
+            "sciName": "Hydrophis platurus",
+            "enName": "Yellow-bellied sea snake",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "突触后神经毒,银环蛇血清+眼镜蛇血清",
+            "bite": "肌肉麻痹，严重可导致急性呼吸衰竭。可能会头痛、恶心、呕吐、腹痛、腹泻、头晕。",
+            "habit": "海水生活，白天和夜间都很活跃。受到挑衅就会咬人。",
+            "diet": "主要以鱼类为食。",
+            "size": "约 60 cm",
+            "teeth": "前沟牙",
+            "distribution": "浙江,福建,台湾,山东,广东,海南,广西,香港",
+            "disImg": "assets/images/species/snake-045/dis.png",
+            "provinces": [
+                "浙江省",
+                "福建省",
+                "台湾省",
+                "山东省",
+                "广东省",
+                "海南省",
+                "广西壮族自治区",
+                "香港特别行政区"
+            ],
+            "cover": "assets/images/species/snake-045/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-045/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-045/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-045/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-045/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-046",
+            "uniqueId": "fc818ddbd8344a3d8420db1c8f8b8873",
+            "cnName": "暹罗颈槽蛇",
+            "sciName": "Rhabdophis siamensis",
+            "enName": "Red-necked Keelback ",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "强凝血毒素,五步蛇血清+蝮蛇血清",
+            "bite": "局部疼痛，肿胀，淤青。凝血功能障碍。颈部红色部分可分泌毒素。",
+            "habit": "陆生，主要在白天活动。会经常在水中游动。如果受到惊扰，通常会紧贴地面，如果受到挑衅或被抓，它会发起攻击。",
+            "diet": "主要以青蛙，蟾蜍，小型哺乳动物和鱼类为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-046/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-046/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-046/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-046/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-046/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-046/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-047",
+            "uniqueId": "788730dd11ef4d2fbfbe03733890542d",
+            "cnName": "喜山颈槽蛇",
+            "sciName": "Rhabdophis himalayanus",
+            "enName": "Orange-collared groove-neck",
+            "category": "剧毒蛇",
+            "toxicity": "剧毒",
+            "toxicityComponent": "强凝血毒素,五步蛇血清+蝮蛇血清\n",
+            "bite": "局部疼痛，肿胀，淤青。凝血功能障碍。颈部红色部分可分泌毒素。",
+            "habit": "陆生，主要在白天活动。会经常在水中游动。",
+            "diet": "主要以青蛙为食，但也会吃小型哺乳动物。",
+            "size": "约 90 cm",
+            "teeth": "",
+            "distribution": "西藏,云南",
+            "disImg": "assets/images/species/snake-047/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-047/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-047/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-047/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-047/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-047/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-048",
+            "uniqueId": "ef158005c94d4eeebedba0300beec5ac",
+            "cnName": "繁花林蛇",
+            "sciName": "Boiga multomaculata",
+            "enName": "Spotted cat snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在夜间活动。常见于灌木和小树中，休息时会盘绕在树枝上。通常性情温顺，受到惊扰时会摇动尾巴，受到威胁或激怒时会迅速发起攻击。通过紧勒杀死猎物。",
+            "diet": "主要以小蜥蜴、鸟类和它们的蛋为食。",
+            "size": "40 - 60 cm",
+            "teeth": "后沟牙",
+            "distribution": "云南,贵州,湖南,广西,广东,海南,香港,澳门,福建,江西,浙江",
+            "disImg": "assets/images/species/snake-048/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "湖南省",
+                "广西壮族自治区",
+                "广东省",
+                "海南省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "福建省",
+                "江西省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-048/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-048/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-048/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-048/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-048/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-048/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-049",
+            "uniqueId": "f3b34e6ab17d47d5b85ba968d6a67013",
+            "cnName": "黑斑水蛇",
+            "sciName": "Myrrophis bennettii",
+            "enName": "Mangrove water snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，全天活跃。主要在沼泽水域活动，通常性情温顺，但是受到威胁或激怒时会迅速发起攻击。",
+            "diet": "主要以鱼类为食。",
+            "size": "约 60 cm",
+            "teeth": "后沟牙",
+            "distribution": "福建,广东,香港,海南,广西,澳门",
+            "disImg": "assets/images/species/snake-049/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "香港特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "澳门特别行政区"
+            ],
+            "cover": "assets/images/species/snake-049/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-049/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-049/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-049/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-049/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-049/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-050",
+            "uniqueId": "28b9dc018252448e966fb872063f4eb1",
+            "cnName": "绿瘦蛇",
+            "sciName": "Ahaetulla prasina",
+            "enName": "Asian vine snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，白天活跃。受到惊扰时会盘成S形，很少出于防御而咬人，但是受到威胁或激怒时会迅速发起攻击。",
+            "diet": "主要以小型哺乳动物，鸟类，蜥蜴，蛙类为食。",
+            "size": "约 1.5 m",
+            "teeth": "后沟牙",
+            "distribution": "西藏,云南,贵州,广西,广东,香港,福建,湖南",
+            "disImg": "assets/images/species/snake-050/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "贵州省",
+                "广西壮族自治区",
+                "广东省",
+                "香港特别行政区",
+                "福建省",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-050/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-050/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-050/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-050/3.png",
+                    "desc": "接近成年"
+                },
+                {
+                    "img": "assets/images/species/snake-050/4.png",
+                    "desc": "接近成年"
+                },
+                {
+                    "img": "assets/images/species/snake-050/5.png",
+                    "desc": "接近成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-051",
+            "uniqueId": "cd820a6915c645c2bf593edc50c4d468",
+            "cnName": "金花蛇",
+            "sciName": "Chrysopelea ornata",
+            "enName": "Golden flying snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，白天活跃。会从树枝上跳下来以逃避攻击。",
+            "diet": "主要以鼠类，蝙蝠，鸟类，鸟卵，树蛙，蛇，蜥蜴，壁虎为食。",
+            "size": "约 1 m",
+            "teeth": "后沟牙",
+            "distribution": "云南,海南,香港,福建",
+            "disImg": "assets/images/species/snake-051/dis.png",
+            "provinces": [
+                "云南省",
+                "海南省",
+                "香港特别行政区",
+                "福建省"
+            ],
+            "cover": "assets/images/species/snake-051/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-051/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-051/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-051/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-051/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-052",
+            "uniqueId": "3b8b110410b74eeab07c56a3d8c0a1dc",
+            "cnName": "铅色水蛇",
+            "sciName": "Hypsiscopus plumbea",
+            "enName": "Plumbeous water snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，主要在夜间活动。会生活在浅的死水中，在泥土中挖洞，会在试图逃跑时跳跃。",
+            "diet": "主要以鱼类，蛙类，泥鳅为食。",
+            "size": "40 - 60 cm",
+            "teeth": "后沟牙",
+            "distribution": "江苏,浙江,福建,台湾,江西,广东,海南,广西,云南,香港",
+            "disImg": "assets/images/species/snake-052/dis.png",
+            "provinces": [
+                "江苏省",
+                "浙江省",
+                "福建省",
+                "台湾省",
+                "江西省",
+                "广东省",
+                "海南省",
+                "广西壮族自治区",
+                "云南省",
+                "香港特别行政区"
+            ],
+            "cover": "assets/images/species/snake-052/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-052/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-052/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-052/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-052/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-052/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-053",
+            "uniqueId": "58af0205f4c4479f85887c111597c7cb",
+            "cnName": "中国水蛇",
+            "sciName": "Myrrophis chinensis",
+            "enName": "Chinese water snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，主要在夜间活动。会在试图逃跑时跳跃",
+            "diet": "主要以泥鳅，鱼类，蛙类为食。",
+            "size": "约 40 cm",
+            "teeth": "后沟牙",
+            "distribution": "江苏,浙江,安徽,福建,台湾,广东,香港,澳门,广西,重庆,湖南,湖北,江西,海南",
+            "disImg": "assets/images/species/snake-053/dis.png",
+            "provinces": [
+                "江苏省",
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "广西壮族自治区",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-053/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-053/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-053/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-053/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-053/4.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-053/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-054",
+            "uniqueId": "8e9d43644fe243ffb0a72a558b6590b0",
+            "cnName": "紫沙蛇",
+            "sciName": "Psammodynastes pulverulentus",
+            "enName": "Common mock viper",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。也会爬灌木丛，如果受到惊扰，会防御性咬人",
+            "diet": "主要以蛙类，蜥蜴，蛇为食。",
+            "size": "约 50 cm",
+            "teeth": "后沟牙",
+            "distribution": "海南,广东,广西,云南,贵州,西藏,香港,福建,台湾,江西,湖南",
+            "disImg": "assets/images/species/snake-054/dis.png",
+            "provinces": [
+                "海南省",
+                "广东省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "西藏自治区",
+                "香港特别行政区",
+                "福建省",
+                "台湾省",
+                "江西省",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-054/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-054/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-054/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-054/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-054/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-054/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-054/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-055",
+            "uniqueId": "7ef197dda3b440f382d4a4e12d234ef4",
+            "cnName": "广西林蛇",
+            "sciName": "Boiga guangxiensis",
+            "enName": "Guangxi cat snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在夜间活动。",
+            "diet": "主要以鸟类，蜥蜴为食。",
+            "size": "约 1.1 m",
+            "teeth": "后沟牙",
+            "distribution": "广西,云南",
+            "disImg": "assets/images/species/snake-055/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-055/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-055/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-055/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-055/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-055/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-055/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-056",
+            "uniqueId": "9f6e2f7f19e74f6885afff7af9484ddd",
+            "cnName": "腹斑水蛇",
+            "sciName": "Subsessor bocourti",
+            "enName": "Bocourt's water snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在夜间活动。性情温顺，受到惊扰，会选择逃跑。只有被激怒或被抓时才会咬人。",
+            "diet": "主要以青蛙和鱼为食。",
+            "size": "约 65 cm",
+            "teeth": "后沟牙",
+            "distribution": "广西,广东",
+            "disImg": "assets/images/species/snake-056/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省"
+            ],
+            "cover": "assets/images/species/snake-056/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-056/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-056/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-056/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-056/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-056/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-057",
+            "uniqueId": "02eefe73536247d7b837009a77f526bf",
+            "cnName": "绞花林蛇",
+            "sciName": "Boiga kraepelini",
+            "enName": "Kelung cat snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，性情温顺。受到惊扰，通常会逃到树上较高的位置。只有被激怒或被抓时才会咬人。",
+            "diet": " 主要以鸟类和它们的蛋为食。",
+            "size": "约 1.2 m",
+            "teeth": "后沟牙",
+            "distribution": "台湾,福建,广东,海南,香港,广西,贵州,四川,重庆,甘肃,湖南,湖北,江西,浙江,安徽",
+            "disImg": "assets/images/species/snake-057/dis.png",
+            "provinces": [
+                "台湾省",
+                "福建省",
+                "广东省",
+                "海南省",
+                "香港特别行政区",
+                "广西壮族自治区",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "甘肃省",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "浙江省",
+                "安徽省"
+            ],
+            "cover": "assets/images/species/snake-057/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-057/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-057/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-057/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-057/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-058",
+            "uniqueId": "85b8f374ed414db1ad6e5bc50c6b02bb",
+            "cnName": "花条蛇",
+            "sciName": "Psammophis lineolatus",
+            "enName": "Slender sand snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以蜥蜴和节肢动物为食。",
+            "size": "约 65 cm",
+            "teeth": "后沟牙",
+            "distribution": "甘肃,宁夏,新疆,内蒙古",
+            "disImg": "assets/images/species/snake-058/dis.png",
+            "provinces": [
+                "甘肃省",
+                "宁夏回族自治区",
+                "新疆维吾尔自治区",
+                "内蒙古自治区"
+            ],
+            "cover": "assets/images/species/snake-058/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-058/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-058/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-058/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-058/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-058/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-058/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-059",
+            "uniqueId": "41852fbf9e9740a980801e82dc8fbdbd",
+            "cnName": "绿林蛇",
+            "sciName": "Boiga cyanea",
+            "enName": "Green cat snake",
+            "category": "微毒蛇",
+            "toxicity": "微毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在夜间活动。性情温顺，行动迟缓，受到惊扰，也不会试图逃跑。很难激怒它们进行攻击。",
+            "diet": "主要以蜥蜴，鸟类，鸟类的蛋，小型哺乳动物和蛇为食。",
+            "size": "约 1.2 m",
+            "teeth": "后沟牙",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-059/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-059/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-059/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-059/2.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-059/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-059/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-059/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-059/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-060",
+            "uniqueId": "e9037e2e73d74304adb76b9d7eeab2f7",
+            "cnName": "黑眉锦蛇",
+            "sciName": "Elaphe taeniura",
+            "enName": "Striped-tailed ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。非常擅长攀爬，会爬到小树和灌木丛寻找猎物。这是一种敏捷的蛇，性情温顺，但如果受到挑衅，也会咬人。",
+            "diet": "主要以啮齿类动物、小型哺乳动物和鸟类为食。",
+            "size": "约 1.5 m",
+            "teeth": "",
+            "distribution": "浙江,上海,江苏,安徽,江西,福建,台湾,广东,广西,海南,湖南,湖北,河南,河北,山东,山西,北京,天津,辽宁,重庆,贵州,四川,云南,陕西,甘肃,西藏",
+            "disImg": "assets/images/species/snake-060/dis.png",
+            "provinces": [
+                "浙江省",
+                "上海市",
+                "江苏省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "广西壮族自治区",
+                "海南省",
+                "湖南省",
+                "湖北省",
+                "河南省",
+                "河北省",
+                "山东省",
+                "山西省",
+                "北京市",
+                "天津市",
+                "辽宁省",
+                "重庆市",
+                "贵州省",
+                "四川省",
+                "云南省",
+                "陕西省",
+                "甘肃省",
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-060/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-060/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-060/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-060/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-060/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-061",
+            "uniqueId": "8d4ae8da936b419098cae8a5ff539d01",
+            "cnName": "三索锦蛇",
+            "sciName": "Coelognathus radiatus",
+            "enName": "Radiated ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。遇到人时会试图逃跑。但如果被逼到绝境，会盘在一起并张大嘴巴，随时发起攻击。拥有很强的游泳能力，经常出现在溪流附近。",
+            "diet": "主要以啮齿动物、小型哺乳动物、鸟类、蜥蜴和青蛙为食。",
+            "size": "约 1.5 m",
+            "teeth": "",
+            "distribution": "福建,广西,广东,贵州,云南,香港",
+            "disImg": "assets/images/species/snake-061/dis.png",
+            "provinces": [
+                "福建省",
+                "广西壮族自治区",
+                "广东省",
+                "贵州省",
+                "云南省",
+                "香港特别行政区"
+            ],
+            "cover": "assets/images/species/snake-061/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-061/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-061/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-061/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-061/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-061/5.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-062",
+            "uniqueId": "ea20f2a33ff94d5ab89d988289847fc8",
+            "cnName": "赤链蛇",
+            "sciName": "Lycodon rufozonatus",
+            "enName": "Red banded wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。遇到人时会试图逃跑。常擅长攀爬，但行动缓慢，如果受到挑衅，也会咬人。",
+            "diet": "主要以蟾蜍，蛙类，蜥蜴，蛇，鼠类，鸟类为食。",
+            "size": "约 90 cm",
+            "teeth": "",
+            "distribution": "河北,山西,辽宁,吉林,黑龙江,江苏,浙江,安徽,福建,江西,山东,河南,湖北,湖南,广东,海南,四川,贵州,云南,陕西,甘肃,台湾,北京,天津,上海,重庆,香港,澳门",
+            "disImg": "assets/images/species/snake-062/dis.png",
+            "provinces": [
+                "河北省",
+                "山西省",
+                "辽宁省",
+                "吉林省",
+                "黑龙江省",
+                "江苏省",
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "江西省",
+                "山东省",
+                "河南省",
+                "湖北省",
+                "湖南省",
+                "广东省",
+                "海南省",
+                "四川省",
+                "贵州省",
+                "云南省",
+                "陕西省",
+                "甘肃省",
+                "台湾省",
+                "北京市",
+                "天津市",
+                "上海市",
+                "重庆市",
+                "香港特别行政区",
+                "澳门特别行政区"
+            ],
+            "cover": "assets/images/species/snake-062/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-062/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-062/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-062/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-062/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-063",
+            "uniqueId": "e554b5771b004bf7aebdf727286c6f1d",
+            "cnName": "翠青蛇",
+            "sciName": "Ptyas major",
+            "enName": "Chinses green snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "主要在白天活动，白天在地面上狩猎，夜间栖息在树上。性情温顺，不会主动咬人。",
+            "diet": "主要以蚯蚓，昆虫为食。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "上海,浙江,江苏,安徽,江西,福建,台湾,香港,广东,广西,海南,湖南,湖北,河南,陕西,甘肃,四川,重庆,贵州,云南",
+            "disImg": "assets/images/species/snake-063/dis.png",
+            "provinces": [
+                "上海市",
+                "浙江省",
+                "江苏省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "台湾省",
+                "香港特别行政区",
+                "广东省",
+                "广西壮族自治区",
+                "海南省",
+                "湖南省",
+                "湖北省",
+                "河南省",
+                "陕西省",
+                "甘肃省",
+                "四川省",
+                "重庆市",
+                "贵州省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-063/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-063/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-063/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-063/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-063/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-063/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-064",
+            "uniqueId": "8264c64646c24a08a8e2cb60209c2641",
+            "cnName": "滑鼠蛇",
+            "sciName": "Ptyas mucosa",
+            "enName": "Oriental ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。遇到人时会试图逃跑。这是一种敏捷的蛇，如果被逼到绝境，会随时发起攻击。",
+            "diet": "主要以蛙类，蟾蜍，蛇，鸟类，鼠类，蜥蜴为食。",
+            "size": "约 1.5 m",
+            "teeth": "",
+            "distribution": "西藏,云南,贵州,重庆,广西,广东,海南,香港,澳门,台湾,福建,江西,湖南,湖北,浙江,安徽",
+            "disImg": "assets/images/species/snake-064/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "贵州省",
+                "重庆市",
+                "广西壮族自治区",
+                "广东省",
+                "海南省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "台湾省",
+                "福建省",
+                "江西省",
+                "湖南省",
+                "湖北省",
+                "浙江省",
+                "安徽省"
+            ],
+            "cover": "assets/images/species/snake-064/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-064/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-064/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-064/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-064/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-064/5.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-065",
+            "uniqueId": "ac7134736862487088d9a7fa3bdc6055",
+            "cnName": "棕脊蛇",
+            "sciName": "Achalinus rufescens",
+            "enName": "Boulenger's odd-scaled snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居, 主要在夜间活动。性情温顺，如果受到惊扰，也会咬人",
+            "diet": "主要以蛞蝓，蚯蚓为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "浙江,福建,江西,广东,香港,海南,广西,贵州,陕西",
+            "disImg": "assets/images/species/snake-065/dis.png",
+            "provinces": [
+                "浙江省",
+                "福建省",
+                "江西省",
+                "广东省",
+                "香港特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "贵州省",
+                "陕西省"
+            ],
+            "cover": "assets/images/species/snake-065/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-065/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-065/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-065/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-065/4.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-065/5.png",
+                    "desc": "亚成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-066",
+            "uniqueId": "49c6623a62e24a8eb37b11fb473e04ff",
+            "cnName": "草腹链蛇",
+            "sciName": "Amphiesma stolatum",
+            "enName": "Buff striped keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。性情温顺，一般不会咬人",
+            "diet": "主要以蛙类为食。",
+            "size": " 约 60-80 cm",
+            "teeth": "",
+            "distribution": "广西,云南,贵州,广东,海南,香港,澳门,台湾,福建,江西,湖北,湖南,安徽,浙江,河南,西藏",
+            "disImg": "assets/images/species/snake-066/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "广东省",
+                "海南省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "台湾省",
+                "福建省",
+                "江西省",
+                "湖北省",
+                "湖南省",
+                "安徽省",
+                "浙江省",
+                "河南省",
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-066/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-066/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-066/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-066/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-066/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-067",
+            "uniqueId": "b75cdc3b222c43a2a19690ef7261c6f8",
+            "cnName": "钝尾两头蛇",
+            "sciName": "Calamaria septentrionalis",
+            "enName": "Northern reed snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，偶尔会在大雨期间或穿过不适合挖洞的地方时出来。性情温顺，如果受到惊扰，也会咬人",
+            "diet": "主要以蚯蚓，昆虫为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "江西,香港,安徽,浙江,江苏,上海,河南,湖北,湖南,贵州,四川,重庆,福建,广东,广西,海南",
+            "disImg": "assets/images/species/snake-067/dis.png",
+            "provinces": [
+                "江西省",
+                "香港特别行政区",
+                "安徽省",
+                "浙江省",
+                "江苏省",
+                "上海市",
+                "河南省",
+                "湖北省",
+                "湖南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "福建省",
+                "广东省",
+                "广西壮族自治区",
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-067/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-067/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-067/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-067/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-067/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-067/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-068",
+            "uniqueId": "d33886d2cdb04b5dbf0f81853aafc16d",
+            "cnName": "缅甸蟒",
+            "sciName": "Python bivittatus",
+            "enName": "Burmese python",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情相对温顺，如果受到惊扰或挑衅，会发出嘶嘶声，随时发起攻击",
+            "diet": "主要以鼠类，蜥蜴，鸟类为食。",
+            "size": "约 4 m",
+            "teeth": "",
+            "distribution": "福建,海南,广西,贵州,云南,西藏,广东,香港,澳门",
+            "disImg": "assets/images/species/snake-068/dis.png",
+            "provinces": [
+                "福建省",
+                "海南省",
+                "广西壮族自治区",
+                "贵州省",
+                "云南省",
+                "西藏自治区",
+                "广东省",
+                "香港特别行政区",
+                "澳门特别行政区"
+            ],
+            "cover": "assets/images/species/snake-068/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-068/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-068/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-068/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-068/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-068/5.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-069",
+            "uniqueId": "b2d39d39e3c5413b8dd80ad6d2beabaa",
+            "cnName": "束纹小头蛇",
+            "sciName": "Oligodon fasciolatus",
+            "enName": "Fasciolated kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，全天活跃。如果受到惊扰，会逃跑，如果被抓住，会立即发起攻击，后齿可以造成很大的伤口",
+            "diet": "主要以爬行动物的卵为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-069/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-069/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-069/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-069/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-069/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-069/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-070",
+            "uniqueId": "ee3e7d89f26e4c7c97db034cd44df358",
+            "cnName": "台湾小头蛇",
+            "sciName": "Oligodon formosanus",
+            "enName": "Taiwan kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，主要在夜间活动。如果受到惊扰，会逃跑，如果被抓住，会立即发起攻击，后齿可以造成很大的伤口",
+            "diet": "主要以爬行动物的卵为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "台湾,福建,广东,海南,香港,澳门,广西,贵州,湖南,江西,浙江,江苏",
+            "disImg": "assets/images/species/snake-070/dis.png",
+            "provinces": [
+                "台湾省",
+                "福建省",
+                "广东省",
+                "海南省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "广西壮族自治区",
+                "贵州省",
+                "湖南省",
+                "江西省",
+                "浙江省",
+                "江苏省"
+            ],
+            "cover": "assets/images/species/snake-070/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-070/1.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-070/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-070/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-070/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-070/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-071",
+            "uniqueId": "3831b772fc964827820e8267e6d899c0",
+            "cnName": "白眉腹链蛇",
+            "sciName": "Hebius boulengeri",
+            "enName": "White-browed keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在夜间活动。如果受到惊扰，会快速逃跑。",
+            "diet": "主要以鱼类，蛙类为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "广东,广西,香港,海南,云南,贵州,重庆,湖南,福建,江西",
+            "disImg": "assets/images/species/snake-071/dis.png",
+            "provinces": [
+                "广东省",
+                "广西壮族自治区",
+                "香港特别行政区",
+                "海南省",
+                "云南省",
+                "贵州省",
+                "重庆市",
+                "湖南省",
+                "福建省",
+                "江西省"
+            ],
+            "cover": "assets/images/species/snake-071/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-071/1.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-071/2.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-071/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-071/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-071/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-072",
+            "uniqueId": "6caf505e6b504b108a47cb9910d7c994",
+            "cnName": "福清白环蛇",
+            "sciName": "Lycodon futsingensis",
+            "enName": "Futsing wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情温顺，如果受到惊扰，会试图逃跑，但如果被抓住，会立即发起攻击并分泌出臭味的液体",
+            "diet": "主要以蛇，蜥蜴，小型哺乳动物为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "福建,广东,香港,广西,湖南,江西,浙江",
+            "disImg": "assets/images/species/snake-072/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "香港特别行政区",
+                "广西壮族自治区",
+                "湖南省",
+                "江西省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-072/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-072/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-072/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-072/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-072/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-072/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-072/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-073",
+            "uniqueId": "f75d122546494092a6a2f67279972d82",
+            "cnName": "黄斑渔游蛇",
+            "sciName": "Fowlea flavipunctatus",
+            "enName": "Yellow-spotted water-snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，全天活跃。性情凶猛，如果被抓住，会迅速发起攻击",
+            "diet": "主要以鱼类，蛙类，蟾蜍，鼠类为食。",
+            "size": "约 70 cm",
+            "teeth": "",
+            "distribution": "香港,广东,澳门,海南,广西,云南,贵州,西藏,福建,台湾,湖南,湖北,江西,浙江,安徽,江苏,陕西",
+            "disImg": "assets/images/species/snake-073/dis.png",
+            "provinces": [
+                "香港特别行政区",
+                "广东省",
+                "澳门特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "西藏自治区",
+                "福建省",
+                "台湾省",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "浙江省",
+                "安徽省",
+                "江苏省",
+                "陕西省"
+            ],
+            "cover": "assets/images/species/snake-073/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-073/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-073/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-073/3.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-073/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-074",
+            "uniqueId": "558b9336629a4da6b23b22a9ba5a2293",
+            "cnName": "黑头剑蛇",
+            "sciName": "Sibynophis chinensis",
+            "enName": "Chinses many-toothed snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，全天活跃。性情温顺，如果受到惊扰，会迅速逃跑，如果被抓住，通常也不会咬人",
+            "diet": "主要以蜥蜴，蛙类为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "湖北,湖南,江西,安徽,江苏,上海,浙江,福建,台湾,广东,香港,海南,广西,云南,贵州,四川,重庆,甘肃,陕西,河南,山西,河北,天津,北京",
+            "disImg": "assets/images/species/snake-074/dis.png",
+            "provinces": [
+                "湖北省",
+                "湖南省",
+                "江西省",
+                "安徽省",
+                "江苏省",
+                "上海市",
+                "浙江省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "香港特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "甘肃省",
+                "陕西省",
+                "河南省",
+                "山西省",
+                "河北省",
+                "天津市",
+                "北京市"
+            ],
+            "cover": "assets/images/species/snake-074/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-074/1.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-074/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-074/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-074/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-075",
+            "uniqueId": "0b0a34590e5d4e5aa8cbc73b15903a6d",
+            "cnName": "白枕白环蛇",
+            "sciName": "Lycodon capucinus",
+            "enName": "Common Wolf Snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情温顺，如果受到惊扰，会试图逃跑并分泌出臭味的液体，如果被抓住，通常也不会咬人。",
+            "diet": "主要以蛙类，蜥蜴，壁虎为食。",
+            "size": "约 70 cm",
+            "teeth": "",
+            "distribution": "福建, 广东, 云南, 香港, 湖南, 四川",
+            "disImg": "assets/images/species/snake-075/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "云南省",
+                "香港特别行政区",
+                "湖南省",
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-075/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-075/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-075/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-075/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-075/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-076",
+            "uniqueId": "0ceaad0b03c847f1929a39839a93cfa8",
+            "cnName": "钩盲蛇",
+            "sciName": "Indotyphlops braminus",
+            "enName": "Common blind snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，主要在夜间活动。成年个体在被触摸时会分泌出臭味的液体并用尾刺攻击。",
+            "diet": "主要以昆虫，蚂蚁，白蚁为食。",
+            "size": "约 15 cm",
+            "teeth": "",
+            "distribution": "云南, 贵州, 四川, 重庆, 广西, 广东, 海南, 澳门, 香港, 福建, 台湾, 江西, 浙江, 湖北,湖南",
+            "disImg": "assets/images/species/snake-076/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "广西壮族自治区",
+                "广东省",
+                "海南省",
+                "澳门特别行政区",
+                "香港特别行政区",
+                "福建省",
+                "台湾省",
+                "江西省",
+                "浙江省",
+                "湖北省",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-076/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-076/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-076/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-076/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-076/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-077",
+            "uniqueId": "411de3e2897a4e298c1c655857ab167c",
+            "cnName": "紫棕小头蛇",
+            "sciName": "Oligodon cinereus",
+            "enName": "Ashy kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情相对温顺，如果受到惊扰，会逃跑，如果被抓住，会发起攻击，后齿可以造成很大的伤口",
+            "diet": "主要以爬行动物的卵为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "福建,广东,香港,海南,广西,贵州,云南",
+            "disImg": "assets/images/species/snake-077/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "香港特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "贵州省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-077/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-077/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-077/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-077/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-077/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-077/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-078",
+            "uniqueId": "d7d8171c9493475b88cfed720b5e4fe7",
+            "cnName": "闪鳞蛇",
+            "sciName": "Xenopeltis unicolor",
+            "enName": "Sunbeam snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，主要在夜间活动。仅在大雨或穿过不适合挖洞的地方时出来。",
+            "diet": "主要以小型哺乳动物，蛙类为食。偶尔捕食蛇类。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-078/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-078/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-078/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-078/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-078/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-078/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-079",
+            "uniqueId": "f0a0d9515e464da0861f7767ab0d6a82",
+            "cnName": "紫灰锦蛇",
+            "sciName": "Oreocryptophis porphyraceus",
+            "enName": "Red bamboo snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在夜间活动。性情温顺，行动缓慢，如果受到惊扰，通常也不会咬人。",
+            "diet": "主要以鼠类小型哺乳动物为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "西藏,云南,贵州,四川,重庆,湖南,湖北,河南,陕西,甘肃,安徽,江西,浙江,江苏,福建,广东,广西,香港,海南,台湾",
+            "disImg": "assets/images/species/snake-079/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "河南省",
+                "陕西省",
+                "甘肃省",
+                "安徽省",
+                "江西省",
+                "浙江省",
+                "江苏省",
+                "福建省",
+                "广东省",
+                "广西壮族自治区",
+                "香港特别行政区",
+                "海南省",
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-079/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-079/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-079/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-079/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-079/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-079/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-080",
+            "uniqueId": "99e468e3b21c4375b3617d2d17be2368",
+            "cnName": "环纹华游蛇",
+            "sciName": "Trimerodytes aequifasciatus",
+            "enName": "Diamond-back water snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。如果受到惊扰，会逃入水中。如果被抓住，会迅速发起攻击并分泌出臭味的液体",
+            "diet": "主要以鱼类为食。",
+            "size": "约 1.3 m",
+            "teeth": "",
+            "distribution": "海南,广东,香港,广西,云南,贵州,重庆,湖南,江西,福建,浙江",
+            "disImg": "assets/images/species/snake-080/dis.png",
+            "provinces": [
+                "海南省",
+                "广东省",
+                "香港特别行政区",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "重庆市",
+                "湖南省",
+                "江西省",
+                "福建省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-080/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-080/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-080/2.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-080/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-080/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-080/5.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-081",
+            "uniqueId": "3032d2777a4742af8c3da0f2b25d6bc8",
+            "cnName": "灰鼠蛇",
+            "sciName": "Ptyas korros",
+            "enName": "Indo-chinese ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。行动迅速，如果受到惊扰，会迅速逃跑，如果被抓住，会迅速发起攻击",
+            "diet": "主要以蛙类，鸟类，鼠类，蜥蜴为食。",
+            "size": "约 2 m",
+            "teeth": "",
+            "distribution": "云南,贵州,广西,广东,海南,香港,澳门,台湾,福建,浙江,江西,安徽,湖南,湖北",
+            "disImg": "assets/images/species/snake-081/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "广西壮族自治区",
+                "广东省",
+                "海南省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "台湾省",
+                "福建省",
+                "浙江省",
+                "江西省",
+                "安徽省",
+                "湖南省",
+                "湖北省"
+            ],
+            "cover": "assets/images/species/snake-081/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-081/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-081/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-081/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-081/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-081/5.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-082",
+            "uniqueId": "a680a8852d694856b276051dc89ef75f",
+            "cnName": "横纹钝头蛇",
+            "sciName": "Pareas margaritophorus",
+            "enName": "White-spotted slug-eating snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情温顺，行动缓慢，如果受到惊扰，通常会保持静止，如果被抓住，一般也不会咬人。",
+            "diet": "主要以蜗牛，蛞蝓为食。",
+            "size": "约 30 cm",
+            "teeth": "",
+            "distribution": "香港,海南,广西,广东,贵州",
+            "disImg": "assets/images/species/snake-082/dis.png",
+            "provinces": [
+                "香港特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "广东省",
+                "贵州省"
+            ],
+            "cover": "assets/images/species/snake-082/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-082/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-082/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-082/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-082/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-083",
+            "uniqueId": "5e9abb7a58134cbb9ffd49b3859f44c0",
+            "cnName": "横纹华游蛇",
+            "sciName": "Trimerodytes balteatus",
+            "enName": "Banded stream snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，主要在白天活动。如果被抓住，通常不会咬人，但会分泌出臭味的液体",
+            "diet": "主要以鱼类，蛙类，蝌蚪，虾，蚯蚓为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "海南, 广东, 香港 广西, 湖南",
+            "disImg": "assets/images/species/snake-083/dis.png",
+            "provinces": [
+                "海南省",
+                "广东省",
+                "香港特别行政区",
+                "广西壮族自治区",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-083/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-083/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-083/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-083/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-083/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-084",
+            "uniqueId": "55d21d2302ab4e53b555577a50f8eb40",
+            "cnName": "挂墩后棱蛇",
+            "sciName": "Opisthotropis kuatunensis",
+            "enName": "Striped stream snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，主要在夜间活动。如果受到惊扰，会迅速逃入水中。如果被抓住，通常不会咬人，但会分泌出臭味的液体。",
+            "diet": "主要以水蛭为食。",
+            "size": "约 70 cm",
+            "teeth": "",
+            "distribution": "福建,广东,香港,广西,江西,浙江",
+            "disImg": "assets/images/species/snake-084/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "香港特别行政区",
+                "广西壮族自治区",
+                "江西省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-084/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-084/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-084/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-084/3.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-084/4.png",
+                    "desc": "亚成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-085",
+            "uniqueId": "e380782e9aed4f05bb3a1765bdb0553f",
+            "cnName": "中国钝头蛇",
+            "sciName": "Pareas chinensis",
+            "enName": "Chinese slug-eating snake ",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情温顺，行动缓慢，如果受到惊扰，通常会保持静止，如果被抓住，一般也不会咬人。",
+            "diet": "主要以蜗牛，蛞蝓为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "浙江,福建,江西,广东,广西,四川,贵州,云南,香港,江苏",
+            "disImg": "assets/images/species/snake-085/dis.png",
+            "provinces": [
+                "浙江省",
+                "福建省",
+                "江西省",
+                "广东省",
+                "广西壮族自治区",
+                "四川省",
+                "贵州省",
+                "云南省",
+                "香港特别行政区",
+                "江苏省"
+            ],
+            "cover": "assets/images/species/snake-085/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-085/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-085/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-085/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-085/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-085/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-086",
+            "uniqueId": "f1631248e5314fd190de255b8a83afcc",
+            "cnName": "侧条后棱蛇",
+            "sciName": "Opisthotropis lateralis",
+            "enName": "Bi-coloured stream snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，主要在夜间活动。性情温顺，行动缓慢，如果被抓住，也会咬人。",
+            "diet": "主要以水蛭，虾，蟹，鱼类为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "广西,广东,香港,云南,贵州,海南,湖南",
+            "disImg": "assets/images/species/snake-086/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省",
+                "香港特别行政区",
+                "云南省",
+                "贵州省",
+                "海南省",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-086/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-086/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-086/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-086/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-086/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-086/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-087",
+            "uniqueId": "197d531e9482445e9d6f28aa7a7da27f",
+            "cnName": "黑网乌梢蛇",
+            "sciName": "Ptyas carinata",
+            "enName": "Keeled ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。行动迅速，如果受到惊扰，会迅速逃跑，如果被抓住，会迅速发起攻击。",
+            "diet": "主要以啮齿动物，蜥蜴为食。",
+            "size": "约 3 m",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-087/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-087/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-087/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-087/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-087/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-087/4.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-088",
+            "uniqueId": "9d984d7bed484e1e814449f03ef2d9ba",
+            "cnName": "乌华游蛇",
+            "sciName": "Trimerodytes percarinatus",
+            "enName": "Chinese water snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖, 主要在夜间活动。性情凶猛，如果被抓住，会迅速发起攻击并分泌出臭味的液体",
+            "diet": "主要以鱼类，蛙类，蝌蚪，虾为食。",
+            "size": "约 70-110 cm",
+            "teeth": "",
+            "distribution": "福建,广东,香港,海南,广西,云南,贵州,四川,重庆,湖北,湖南,江西,安徽,浙江,上海,江苏,山东,河南,陕西,甘肃",
+            "disImg": "assets/images/species/snake-088/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "香港特别行政区",
+                "海南省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖北省",
+                "湖南省",
+                "江西省",
+                "安徽省",
+                "浙江省",
+                "上海市",
+                "江苏省",
+                "山东省",
+                "河南省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-088/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-088/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-088/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-088/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-088/4.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-089",
+            "uniqueId": "8c5e30ad53434489bb608a01bf51b495",
+            "cnName": "横纹斜鳞蛇",
+            "sciName": "Pseudoxenodon bambusicola",
+            "enName": "Banded mock cobra",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。在有水的周围活动。如果受到惊扰，会像眼镜蛇一样，抬起头部。",
+            "diet": "主要以蛙类为食。",
+            "size": "约 100 cm",
+            "teeth": "",
+            "distribution": "广东,海南,广西,福建,贵州,湖南,湖北,江西,浙江",
+            "disImg": "assets/images/species/snake-089/dis.png",
+            "provinces": [
+                "广东省",
+                "海南省",
+                "广西壮族自治区",
+                "福建省",
+                "贵州省",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-089/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-089/1.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-089/2.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-089/3.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-089/4.png",
+                    "desc": "亚成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-090",
+            "uniqueId": "0f874538b6cf425082d47a9caddf2619",
+            "cnName": "过树蛇",
+            "sciName": "Dendrelaphis pictus",
+            "enName": "Common bronzeback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在白天活动。性情温顺，通常睡在树上或灌木丛顶部，如果被抓住，也会咬人。",
+            "diet": "主要以蛙类，蜥蜴为食。",
+            "size": "约 60-100 cm",
+            "teeth": "",
+            "distribution": "海南,广西,云南",
+            "disImg": "assets/images/species/snake-090/dis.png",
+            "provinces": [
+                "海南省",
+                "广西壮族自治区",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-090/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-090/1.png",
+                    "desc": "亚成年"
+                },
+                {
+                    "img": "assets/images/species/snake-090/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-090/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-090/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-091",
+            "uniqueId": "4b76949c8b664e4ab6eaab5142a7bb77",
+            "cnName": "蓝绿过树蛇",
+            "sciName": "Dendrelaphis cyanochloris",
+            "enName": "Wall's Bronzeback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在白天活动。性情温顺，通常睡在树上或灌木丛顶部，如果被抓住，也会咬人。",
+            "diet": "主要以蛙类，蜥蜴为食。",
+            "size": "约 80-100 cm",
+            "teeth": "",
+            "distribution": "西藏、云南、海南",
+            "disImg": "assets/images/species/snake-091/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-091/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-091/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-091/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-091/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-091/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-092",
+            "uniqueId": "4eed79e6ad3845f08901c7c25861951d",
+            "cnName": "双全白环蛇",
+            "sciName": "Lycodon fasciatus",
+            "enName": "Banded wolf snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": " 陆生，主要在夜间活动。擅长攀爬。受到惊扰，会试图逃跑，但如果被逼入绝境，则会发起攻击。",
+            "diet": "主要以小蜥蜴和小蛇为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "云南,贵州,四川,西藏,广西,广东,福建,浙江,湖北,陕西,甘肃",
+            "disImg": "assets/images/species/snake-092/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "四川省",
+                "西藏自治区",
+                "广西壮族自治区",
+                "广东省",
+                "福建省",
+                "浙江省",
+                "湖北省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-092/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-092/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-092/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-092/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-092/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-092/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-092/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-093",
+            "uniqueId": "fd6e946c0cec44019c40b7bc8a634608",
+            "cnName": "台湾钝头蛇",
+            "sciName": "Pareas formosensis",
+            "enName": "Taiwan slug-eating snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情非常温顺，即使被接近或触摸，也不会咬人。",
+            "diet": "主要以蛞蝓和其它小型无脊椎动物为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "台湾",
+            "disImg": "assets/images/species/snake-093/dis.png",
+            "provinces": [
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-093/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-093/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-093/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-093/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-093/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-093/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-094",
+            "uniqueId": "ebe0d76bef8343d6bcd1ac9e6b8ca75a",
+            "cnName": "缅甸钝头蛇",
+            "sciName": "Pareas hamptoni",
+            "enName": "Hampton's slug-eating snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情非常温顺，即使被接近或触摸，也不会咬人。",
+            "diet": "主要以蛞蝓，蜗牛为食，偶尔也吃昆虫。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "云南,贵州,广东,广西,海南,湖南,江西",
+            "disImg": "assets/images/species/snake-094/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "广东省",
+                "广西壮族自治区",
+                "海南省",
+                "湖南省",
+                "江西省"
+            ],
+            "cover": "assets/images/species/snake-094/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-094/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-094/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-094/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-094/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-095",
+            "uniqueId": "ce5dbaea6ecf4deebc1742e4e79f4b3e",
+            "cnName": "黄脊游蛇",
+            "sciName": "Orientocoluber spinalis",
+            "enName": "Common racer",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情非常温顺，即使不断受到挑衅也很少咬人。",
+            "diet": "主要以小蜥蜴为食。",
+            "size": "约 70 cm",
+            "teeth": "",
+            "distribution": "新疆,甘肃,宁夏,陕西,山西,内蒙古,黑龙江,吉林,辽宁,河北,北京,天津,山东,江苏,河南,安徽",
+            "disImg": "assets/images/species/snake-095/dis.png",
+            "provinces": [
+                "新疆维吾尔自治区",
+                "甘肃省",
+                "宁夏回族自治区",
+                "陕西省",
+                "山西省",
+                "内蒙古自治区",
+                "黑龙江省",
+                "吉林省",
+                "辽宁省",
+                "河北省",
+                "北京市",
+                "天津市",
+                "山东省",
+                "江苏省",
+                "河南省",
+                "安徽省"
+            ],
+            "cover": "assets/images/species/snake-095/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-095/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-095/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-095/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-095/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-095/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-096",
+            "uniqueId": "f0c8d3c27d7b424a8fbd6c1ac1b6e898",
+            "cnName": "黄链蛇",
+            "sciName": "Lycodon flavozonatus",
+            "enName": "Yellow banded wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。受到惊扰，会卷成一个球形，并将头藏起来，通常不会试图逃跑或咬人。",
+            "diet": "主要以小蜥蜴，石龙子和小蛇为食。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "浙江,安徽,江西,福建,湖南,广东,海南,广西,四川,贵州,云南,重庆,湖北,河南",
+            "disImg": "assets/images/species/snake-096/dis.png",
+            "provinces": [
+                "浙江省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "湖南省",
+                "广东省",
+                "海南省",
+                "广西壮族自治区",
+                "四川省",
+                "贵州省",
+                "云南省",
+                "重庆市",
+                "湖北省",
+                "河南省"
+            ],
+            "cover": "assets/images/species/snake-096/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-096/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-096/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-096/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-096/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-096/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-097",
+            "uniqueId": "ccff9148c67e493588163e33d39e6a11",
+            "cnName": "红尾筒蛇",
+            "sciName": "Cylindrophis ruffus",
+            "enName": "Red-tailed pipe snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。",
+            "diet": "主要以蛇，鳗为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "福建,海南",
+            "disImg": "assets/images/species/snake-097/dis.png",
+            "provinces": [
+                "福建省",
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-097/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-097/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-097/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-097/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-097/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-097/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-098",
+            "uniqueId": "ba0d2903f5af4390a82a1fd0e8fb6155",
+            "cnName": "瘰鳞蛇",
+            "sciName": "Acrochordus granulatus",
+            "enName": "Little file snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水生，主要在夜间活动。擅长游泳，但在陆地上寸步难行。",
+            "diet": "主要以鱼和甲壳类动物为食。",
+            "size": "约 65 cm",
+            "teeth": "",
+            "distribution": "海南",
+            "disImg": "assets/images/species/snake-098/dis.png",
+            "provinces": [
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-098/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-098/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-098/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-098/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-098/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-099",
+            "uniqueId": "1b1a294649244fe39c74be9f692c5e08",
+            "cnName": "锈链腹链蛇",
+            "sciName": "Hebius craspedogaster",
+            "enName": "Rufous-striped keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。",
+            "diet": "主要以鱼，青蛙，蟾蜍和蝌蚪为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "福建,广东,广西,贵州,四川,重庆,湖南,湖北,江西,浙江,安徽,江苏,河南,山西,陕西,甘肃",
+            "disImg": "assets/images/species/snake-099/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "广西壮族自治区",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "浙江省",
+                "安徽省",
+                "江苏省",
+                "河南省",
+                "山西省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-099/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-099/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-099/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-099/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-099/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-100",
+            "uniqueId": "5fb41fd525ac4728b0eb77010f52d3dc",
+            "cnName": "白环蛇",
+            "sciName": "Lycodon aulicus",
+            "enName": "Common Wolf Snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。擅长攀爬。受到惊扰，会试图逃跑，但如果被逼入绝境，则会发起攻击。",
+            "diet": "主要以小蜥蜴，小型哺乳动物为食，偶尔也吃青蛙和节肢动物。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "福建，云南",
+            "disImg": "assets/images/species/snake-100/dis.png",
+            "provinces": [
+                "福建省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-100/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-100/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-100/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-100/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-100/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-100/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-101",
+            "uniqueId": "23e609ee68f349fea1cf2346a7826c88",
+            "cnName": "细白环蛇",
+            "sciName": "Lycodon subcinctus",
+            "enName": "Malayan banded wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。受到惊扰，会试图逃跑，但如果被逼入绝境，则会发起攻击。",
+            "diet": "主要以小蜥蜴为食。",
+            "size": "约 65 cm",
+            "teeth": "",
+            "distribution": "福建,海南,广西,广东,香港,澳门,湖南",
+            "disImg": "assets/images/species/snake-101/dis.png",
+            "provinces": [
+                "福建省",
+                "海南省",
+                "广西壮族自治区",
+                "广东省",
+                "香港特别行政区",
+                "澳门特别行政区",
+                "湖南省"
+            ],
+            "cover": "assets/images/species/snake-101/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-101/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-101/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-101/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-101/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-101/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-102",
+            "uniqueId": "df0cde51528d4dc5af28121ce9c7af7b",
+            "cnName": "红纹滞卵蛇",
+            "sciName": "Oocatochus rufodorsatus",
+            "enName": "Red-backed ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。经常出现在靠近水的地方。",
+            "diet": "主要以青蛙，蝌蚪，蜥蜴，鳗鱼为食，偶尔也吃鱼和啮齿动物。",
+            "size": "约 55-90 cm",
+            "teeth": "",
+            "distribution": "浙江,安徽,江西,福建,上海,江苏,山东,天津,北京,黑龙江,辽宁,吉林,内蒙古,河北,山西,河南,湖北,湖南,重庆,台湾,广东,广西",
+            "disImg": "assets/images/species/snake-102/dis.png",
+            "provinces": [
+                "浙江省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "上海市",
+                "江苏省",
+                "山东省",
+                "天津市",
+                "北京市",
+                "黑龙江省",
+                "辽宁省",
+                "吉林省",
+                "内蒙古自治区",
+                "河北省",
+                "山西省",
+                "河南省",
+                "湖北省",
+                "湖南省",
+                "重庆市",
+                "台湾省",
+                "广东省",
+                "广西壮族自治区"
+            ],
+            "cover": "assets/images/species/snake-102/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-102/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-102/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-102/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-102/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-103",
+            "uniqueId": "9c9901f4d99a4142aea4b4ca12d68512",
+            "cnName": "赤链华游蛇",
+            "sciName": "Trimerodytes annularis",
+            "enName": "Red-bellied water snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水生，主要在白天活动。常见于溪流附近，以及在被水淹没的田地。",
+            "diet": "主要以鱼，鳗鱼和青蛙为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "浙江,上海,江苏,安徽,江西,福建,台湾,广东,海南,广西,湖南,湖北,四川",
+            "disImg": "assets/images/species/snake-103/dis.png",
+            "provinces": [
+                "浙江省",
+                "上海市",
+                "江苏省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "海南省",
+                "广西壮族自治区",
+                "湖南省",
+                "湖北省",
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-103/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-103/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-103/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-103/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-103/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-103/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-104",
+            "uniqueId": "3dfae54be1c44000b09db84c2074bb62",
+            "cnName": "八莫过树蛇",
+            "sciName": "Dendrelaphis subocularis",
+            "enName": "Mountain bronzeback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在白天活动。性情温顺，受到惊扰，会试图逃跑。如果受到挑衅，则会膨胀颈部，进入防御姿势。",
+            "diet": "主要以蜥蜴，青蛙，小鸟和鸟蛋为食。",
+            "size": "约 60-100 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-104/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-104/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-104/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-104/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-104/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-104/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-104/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-105",
+            "uniqueId": "d31d4948c6af4cd590d32feb0077d85a",
+            "cnName": "大眼斜鳞蛇",
+            "sciName": "Pseudoxenodon macrops",
+            "enName": "Big-eye mock cobra",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情温顺，受到惊扰，它会抬起头，然后扁脖子，像眼镜蛇一样。如果受到挑衅，只会做出微弱的咬人行为。",
+            "diet": "主要以青蛙，蟾蜍和蜥蜴为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "西藏,云南,贵州,四川,重庆,甘肃,陕西,河南,湖北,湖南,广东,广西,福建,江西",
+            "disImg": "assets/images/species/snake-105/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "甘肃省",
+                "陕西省",
+                "河南省",
+                "湖北省",
+                "湖南省",
+                "广东省",
+                "广西壮族自治区",
+                "福建省",
+                "江西省"
+            ],
+            "cover": "assets/images/species/snake-105/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-105/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-105/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-105/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-105/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-105/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-105/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-106",
+            "uniqueId": "ddf7dc97045140ad8bb0d581a5a599ff",
+            "cnName": "玉斑锦蛇",
+            "sciName": "Euprepiophis mandarinus",
+            "enName": "Mandarin ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以小型哺乳动物，啮齿动物和蜥蜴为食。",
+            "size": "约 1.1 m",
+            "teeth": "",
+            "distribution": "北京,天津,辽宁,上海,浙江,江苏,安徽,江西,福建,台湾,广东,广西,云南,西藏,贵州,四川,重庆,湖南,湖北,河南,河北,山西,陕西,甘肃,宁夏",
+            "disImg": "assets/images/species/snake-106/dis.png",
+            "provinces": [
+                "北京市",
+                "天津市",
+                "辽宁省",
+                "上海市",
+                "浙江省",
+                "江苏省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "广西壮族自治区",
+                "云南省",
+                "西藏自治区",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "河南省",
+                "河北省",
+                "山西省",
+                "陕西省",
+                "甘肃省",
+                "宁夏回族自治区"
+            ],
+            "cover": "assets/images/species/snake-106/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-106/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-106/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-106/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-106/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-106/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-107",
+            "uniqueId": "6435f96708124c51b4a7d85cbfd0b6dd",
+            "cnName": "颈棱蛇",
+            "sciName": "Pseudagkistrodon rudis",
+            "enName": "False viper",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情温顺，受到惊扰，它会抬起头，然后扁脖子，像眼镜蛇一样。如果受到挑衅，只会做出微弱的咬人行为。",
+            "diet": "主要以青蛙和蟾蜍为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "云南,贵州,四川,广西,广东,福建,台湾,湖南,浙江,安徽,河南,江西",
+            "disImg": "assets/images/species/snake-107/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "四川省",
+                "广西壮族自治区",
+                "广东省",
+                "福建省",
+                "台湾省",
+                "湖南省",
+                "浙江省",
+                "安徽省",
+                "河南省",
+                "江西省"
+            ],
+            "cover": "assets/images/species/snake-107/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-107/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-107/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-107/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-107/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-107/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-108",
+            "uniqueId": "e51d4067d2514da3943a6b7ee2f9d27b",
+            "cnName": "横纹翠青蛇",
+            "sciName": "Ptyas multicincta",
+            "enName": "Many banded green snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情非常温顺。即使受到挑衅，也不会咬人。",
+            "diet": "主要以蚯蚓，昆虫为食。",
+            "size": "约 75 cm",
+            "teeth": "",
+            "distribution": "广东,湖南,海南,广西,云南",
+            "disImg": "assets/images/species/snake-108/dis.png",
+            "provinces": [
+                "广东省",
+                "湖南省",
+                "海南省",
+                "广西壮族自治区",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-108/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-108/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-108/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-108/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-108/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-108/5.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-108/6.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-109",
+            "uniqueId": "ed8f69925ffa4536a2e8ec3a355fd698",
+            "cnName": "红沙蚺",
+            "sciName": "Eryx miliaris",
+            "enName": "Desert sand boa",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动，但在最热的月份，主要在夜间活动。\n",
+            "diet": "主要以啮齿动物和蜥蜴为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "新疆,甘肃,内蒙古,宁夏",
+            "disImg": "assets/images/species/snake-109/dis.png",
+            "provinces": [
+                "新疆维吾尔自治区",
+                "甘肃省",
+                "内蒙古自治区",
+                "宁夏回族自治区"
+            ],
+            "cover": "assets/images/species/snake-109/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-109/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-109/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-109/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-109/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-109/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-110",
+            "uniqueId": "f494f6f97bef4bb78d47002bd1688353",
+            "cnName": "纹尾斜鳞蛇",
+            "sciName": "Pseudoxenodon stejnegeri",
+            "enName": "Stejneger's mock cobra",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以青蛙，蟾蜍和蜥蜴为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "台湾,福建,江西,浙江,安徽,河南,湖南,广西,贵州,重庆,四川,云南",
+            "disImg": "assets/images/species/snake-110/dis.png",
+            "provinces": [
+                "台湾省",
+                "福建省",
+                "江西省",
+                "浙江省",
+                "安徽省",
+                "河南省",
+                "湖南省",
+                "广西壮族自治区",
+                "贵州省",
+                "重庆市",
+                "四川省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-110/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-110/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-110/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-110/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-110/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-110/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-111",
+            "uniqueId": "2fa5cfd9af1c47c394011d1b3a80b9ec",
+            "cnName": "尖尾两头蛇",
+            "sciName": "Calamaria pavimentata",
+            "enName": "Collared reed snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，生活在腐烂的落叶中或软土中。性情温顺，如果受到惊扰，也会咬人。",
+            "diet": "主要以蚯蚓为食。",
+            "size": "约 30 cm",
+            "teeth": "",
+            "distribution": "云南,广西,广东,海南,台湾,贵州,江西,福建,四川,浙江",
+            "disImg": "assets/images/species/snake-111/dis.png",
+            "provinces": [
+                "云南省",
+                "广西壮族自治区",
+                "广东省",
+                "海南省",
+                "台湾省",
+                "贵州省",
+                "江西省",
+                "福建省",
+                "四川省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-111/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-111/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-111/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-111/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-111/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-111/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-112",
+            "uniqueId": "2cbce1ccac48450bac99070f4f982fce",
+            "cnName": "中国小头蛇",
+            "sciName": "Oligodon chinensis",
+            "enName": "Chinese kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情相对温顺，如果受到惊扰，会逃跑，如果被抓住，会发起攻击，后齿可以造成很大的伤口。",
+            "diet": "主要以爬行动物的卵为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "江西,福建,广东,海南,广西,云南,贵州,四川,重庆,湖南,湖北,安徽,浙江,江苏,河南",
+            "disImg": "assets/images/species/snake-112/dis.png",
+            "provinces": [
+                "江西省",
+                "福建省",
+                "广东省",
+                "海南省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "安徽省",
+                "浙江省",
+                "江苏省",
+                "河南省"
+            ],
+            "cover": "assets/images/species/snake-112/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-112/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-112/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-112/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-112/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-112/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-113",
+            "uniqueId": "ed94f2c43f754395bcb7e95cc17c6b7a",
+            "cnName": "棕黑锦蛇",
+            "sciName": "Elaphe schrenckii",
+            "enName": "Amur ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以小型哺乳动物和鸟类为食。",
+            "size": "约 1.4 m",
+            "teeth": "",
+            "distribution": "黑龙江,吉林,辽宁",
+            "disImg": "assets/images/species/snake-113/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "吉林省",
+                "辽宁省"
+            ],
+            "cover": "assets/images/species/snake-113/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-113/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-113/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-113/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-113/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-113/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-114",
+            "uniqueId": "0554a1d60f6f4435be2adaef1dc50328",
+            "cnName": "棕黑腹链蛇",
+            "sciName": "Hebius sauteri",
+            "enName": "Sauter's keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。",
+            "diet": "主要以蚯蚓，蛞蝓，蝌蚪为食。",
+            "size": "约 30 cm",
+            "teeth": "",
+            "distribution": "台湾,福建,广东,广西,海南,云南,贵州,四川,重庆,湖南,湖北,江西,安徽",
+            "disImg": "assets/images/species/snake-114/dis.png",
+            "provinces": [
+                "台湾省",
+                "福建省",
+                "广东省",
+                "广西壮族自治区",
+                "海南省",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "江西省",
+                "安徽省"
+            ],
+            "cover": "assets/images/species/snake-114/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-114/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-114/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-114/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-114/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-114/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-115",
+            "uniqueId": "f99a930d1a7d411f9bc2082a9c832311",
+            "cnName": "黑背白环蛇",
+            "sciName": "Lycodon ruhstrati",
+            "enName": "Mountain wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "主要在夜间活动，白天躲藏在溪流旁。擅长攀爬。如果受到挑衅，会发起攻击。",
+            "diet": "主要以小蜥蜴和青蛙为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "江苏,浙江,安徽,福建,台湾,江西,湖南,广东,广西,四川,贵州,甘肃,陕西,香港,海南,云南,重庆,湖北,河南,北京",
+            "disImg": "assets/images/species/snake-115/dis.png",
+            "provinces": [
+                "江苏省",
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "台湾省",
+                "江西省",
+                "湖南省",
+                "广东省",
+                "广西壮族自治区",
+                "四川省",
+                "贵州省",
+                "甘肃省",
+                "陕西省",
+                "香港特别行政区",
+                "海南省",
+                "云南省",
+                "重庆市",
+                "湖北省",
+                "河南省",
+                "北京市"
+            ],
+            "cover": "assets/images/species/snake-115/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-115/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-115/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-115/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-115/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-115/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-116",
+            "uniqueId": "7b46829464004f078cfe2ea1fb07b82f",
+            "cnName": "赤峰锦蛇",
+            "sciName": "Elaphe anomala",
+            "enName": "Chifeng ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以小型哺乳动物和鸟类为食。",
+            "size": "约 1.2 m",
+            "teeth": "",
+            "distribution": "内蒙古,黑龙江,吉林,辽宁,北京,天津,河北,山西,陕西,甘肃,山东,河南,湖北,湖南,安徽,江苏,浙江,",
+            "disImg": "assets/images/species/snake-116/dis.png",
+            "provinces": [
+                "内蒙古自治区",
+                "黑龙江省",
+                "吉林省",
+                "辽宁省",
+                "北京市",
+                "天津市",
+                "河北省",
+                "山西省",
+                "陕西省",
+                "甘肃省",
+                "山东省",
+                "河南省",
+                "湖北省",
+                "湖南省",
+                "安徽省",
+                "江苏省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-116/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-116/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-116/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-116/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-116/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-117",
+            "uniqueId": "0e8cc0c7585841c4ae83c4b1d8417191",
+            "cnName": "平鳞钝头蛇",
+            "sciName": "Pareas boulengeri",
+            "enName": "Boulenger's slug-eating snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。性情非常温顺，即使被接近或触摸，也不会咬人。",
+            "diet": "主要以蜗牛和蛞蝓为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "江苏,浙江,安徽,福建,贵州,云南,四川,重庆,湖南,广西,广东,江西,河南,陕西,甘肃",
+            "disImg": "assets/images/species/snake-117/dis.png",
+            "provinces": [
+                "江苏省",
+                "浙江省",
+                "安徽省",
+                "福建省",
+                "贵州省",
+                "云南省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "广西壮族自治区",
+                "广东省",
+                "江西省",
+                "河南省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-117/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-117/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-117/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-117/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-117/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-117/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-118",
+            "uniqueId": "4dea85d9da714ceda8a4f8d248051c98",
+            "cnName": "王锦蛇",
+            "sciName": "Elaphe carinata",
+            "enName": "Keeled ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。性情凶猛，如果受到惊扰或挑衅，会立即发起攻击。如果被抓住，会分泌出恶臭无比的液体。",
+            "diet": "主要以啮齿动物，鸟类，蜥蜴和蛇为食。",
+            "size": "约 1.2 m",
+            "teeth": "",
+            "distribution": "江西,福建,台湾,浙江,广东,广西,湖南,湖北,河南,安徽,江苏,上海,山东,山西,北京,天津,陕西,宁夏,甘肃,云南,贵州,四川,重庆,西藏",
+            "disImg": "assets/images/species/snake-118/dis.png",
+            "provinces": [
+                "江西省",
+                "福建省",
+                "台湾省",
+                "浙江省",
+                "广东省",
+                "广西壮族自治区",
+                "湖南省",
+                "湖北省",
+                "河南省",
+                "安徽省",
+                "江苏省",
+                "上海市",
+                "山东省",
+                "山西省",
+                "北京市",
+                "天津市",
+                "陕西省",
+                "宁夏回族自治区",
+                "甘肃省",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-118/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-118/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-118/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-118/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-118/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-118/5.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-118/6.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-119",
+            "uniqueId": "e06f9f366d73423b94951b6047a9e7b6",
+            "cnName": "东亚腹链蛇",
+            "sciName": "Hebius vibakari",
+            "enName": "Far-east keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。清晨和傍晚最为活跃。",
+            "diet": "主要以青蛙，蝌蚪，小鱼和蚯蚓为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "黑龙江,吉林,辽宁",
+            "disImg": "assets/images/species/snake-119/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "吉林省",
+                "辽宁省"
+            ],
+            "cover": "assets/images/species/snake-119/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-119/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-119/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-119/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-119/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-120",
+            "uniqueId": "851a084e9b1443ce8b516de40a0e5789",
+            "cnName": "黑脊蛇",
+            "sciName": "Achalinus spinalis",
+            "enName": "Peters' odd-scaled snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "穴居，主要在夜间活动。性情非常温顺。当被抓或被挑衅时，也不会表现出任何攻击行为。",
+            "diet": " 主要以蚯蚓为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "福建,云南,四川,甘肃,陕西,浙江,江西,江苏,湖北",
+            "disImg": "assets/images/species/snake-120/dis.png",
+            "provinces": [
+                "福建省",
+                "云南省",
+                "四川省",
+                "甘肃省",
+                "陕西省",
+                "浙江省",
+                "江西省",
+                "江苏省",
+                "湖北省"
+            ],
+            "cover": "assets/images/species/snake-120/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-120/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-120/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-120/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-120/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-120/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-121",
+            "uniqueId": "b5461b620b7047a38091a7cda1017785",
+            "cnName": "灰腹绿锦蛇",
+            "sciName": "Gonyosoma frenatum",
+            "enName": "Rein snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": " 树栖，主要在夜间活动。性情温顺。",
+            "diet": "主要以啮齿动物，蜥蜴，鸟类和青蛙为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "广西,广东,贵州,四川,重庆,陕西,河南,湖北,湖南,江西,福建,台湾,浙江,安徽",
+            "disImg": "assets/images/species/snake-121/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "陕西省",
+                "河南省",
+                "湖北省",
+                "湖南省",
+                "江西省",
+                "福建省",
+                "台湾省",
+                "浙江省",
+                "安徽省"
+            ],
+            "cover": "assets/images/species/snake-121/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-121/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-121/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-121/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-121/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-121/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-122",
+            "uniqueId": "9261b12833644f2db101881bc5966c42",
+            "cnName": "乌梢蛇",
+            "sciName": "Ptyas dhumnades",
+            "enName": "Big-eyed ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。行动迅速，如果受到惊扰，会选择逃跑。通常性情温顺，但如果受到挑衅，也会发起攻击。",
+            "diet": "主要以青蛙，蟾蜍，啮齿动物为食，偶尔也吃蜥蜴。",
+            "size": "约 2 m",
+            "teeth": "",
+            "distribution": "上海,江苏,浙江,安徽,江西,福建,台湾,广东,广西,云南,贵州,四川,重庆,湖南,湖北,河南,山西,陕西,甘肃,河北,天津,北京",
+            "disImg": "assets/images/species/snake-122/dis.png",
+            "provinces": [
+                "上海市",
+                "江苏省",
+                "浙江省",
+                "安徽省",
+                "江西省",
+                "福建省",
+                "台湾省",
+                "广东省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖南省",
+                "湖北省",
+                "河南省",
+                "山西省",
+                "陕西省",
+                "甘肃省",
+                "河北省",
+                "天津市",
+                "北京市"
+            ],
+            "cover": "assets/images/species/snake-122/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-122/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-122/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-122/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-122/4.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-122/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-123",
+            "uniqueId": "ab065bb23c8249d9b7a013551bd3c5d2",
+            "cnName": "白条锦蛇",
+            "sciName": "Elaphe dione",
+            "enName": "Dione ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。在较热和较干旱的地区主要在夜间活动。",
+            "diet": "主要以小型啮齿动物为食，偶尔也吃雏鸟，鸟蛋，蜥蜴，蛇和鱼。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "新疆,青海,甘肃,四川,内蒙古,宁夏,黑龙江,吉林,辽宁,陕西,山西,河北,北京,天津,河南,湖北,安徽,江苏,上海,山东",
+            "disImg": "assets/images/species/snake-123/dis.png",
+            "provinces": [
+                "新疆维吾尔自治区",
+                "青海省",
+                "甘肃省",
+                "四川省",
+                "内蒙古自治区",
+                "宁夏回族自治区",
+                "黑龙江省",
+                "吉林省",
+                "辽宁省",
+                "陕西省",
+                "山西省",
+                "河北省",
+                "北京市",
+                "天津市",
+                "河南省",
+                "湖北省",
+                "安徽省",
+                "江苏省",
+                "上海市",
+                "山东省"
+            ],
+            "cover": "assets/images/species/snake-123/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-123/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-123/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-123/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-123/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-123/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-124",
+            "uniqueId": "e77d5a0814f14aa79e208ed5c49d93e2",
+            "cnName": "花脊游蛇",
+            "sciName": "Hemorrhois ravergieri",
+            "enName": "Spotted whip snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以蜥蜴、青蛙、鸟类和啮齿动物为食。",
+            "size": "约 70 cm",
+            "teeth": "",
+            "distribution": "新疆",
+            "disImg": "assets/images/species/snake-124/dis.png",
+            "provinces": [
+                "新疆维吾尔自治区"
+            ],
+            "cover": "assets/images/species/snake-124/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-124/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-124/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-124/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-124/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-125",
+            "uniqueId": "aa3517b52137412fb51c0975c2f742b1",
+            "cnName": "云南华游蛇",
+            "sciName": "Trimerodytes yunnanensis",
+            "enName": "Yunnan water snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，主要在白天活动。",
+            "diet": "主要以鱼类为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-125/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-125/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-125/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-125/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-125/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-125/4.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-126",
+            "uniqueId": "b41672f841be4222a13a09ddd72789c6",
+            "cnName": "棋斑水游蛇",
+            "sciName": "Natrix tessellata",
+            "enName": "Dice snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖，通常会出现在树枝上，如果受到挑衅，会逃入水中。",
+            "diet": "主要以小鱼，蛙，蟾蜍及其幼体及其他小型水生动物为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "新疆",
+            "disImg": "assets/images/species/snake-126/dis.png",
+            "provinces": [
+                "新疆维吾尔自治区"
+            ],
+            "cover": "assets/images/species/snake-126/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-126/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-126/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-126/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-126/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-127",
+            "uniqueId": "317d5ed6e06f4d9da282599323223682",
+            "cnName": "刘氏白环蛇",
+            "sciName": "Lycodon liuchengchaoi",
+            "enName": "Liu's wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。如果受到挑衅，会试图逃跑，但如果被逼入绝境，则会发起攻击。",
+            "diet": "主要以小蜥蜴和小型哺乳动物为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "四川,湖南,广东,浙江,安徽,河南,陕西,山西",
+            "disImg": "assets/images/species/snake-127/dis.png",
+            "provinces": [
+                "四川省",
+                "湖南省",
+                "广东省",
+                "浙江省",
+                "安徽省",
+                "河南省",
+                "陕西省",
+                "山西省"
+            ],
+            "cover": "assets/images/species/snake-127/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-127/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-127/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-127/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-127/4.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-127/5.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-128",
+            "uniqueId": "13dc20e7ee254a31aeea7eed1061b6e1",
+            "cnName": "尖喙蛇",
+            "sciName": "Gonyosoma boulengeri",
+            "enName": "Green sharp-snouted snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，白天活跃。",
+            "diet": "主要以小型哺乳动物，鸟类，蜥蜴，蛙类为食。",
+            "size": "约 1.2 m",
+            "teeth": "",
+            "distribution": "广西,广东,云南",
+            "disImg": "assets/images/species/snake-128/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-128/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-128/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-128/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-128/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-128/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-129",
+            "uniqueId": "188b7fc60d3448698cbbea00cdbece18",
+            "cnName": "福建颈斑蛇",
+            "sciName": "Plagiopholis styani",
+            "enName": "Fujian neck-blotched snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，性情非常温顺。如果受到挑衅，既不会采取防御姿态，也不会试图咬人。",
+            "diet": "主要以蚯蚓为食。",
+            "size": "约 30 cm",
+            "teeth": "",
+            "distribution": "福建,台湾,广东,广西,贵州,四川,重庆,湖北,湖南,江西,安徽,浙江,陕西,甘肃",
+            "disImg": "assets/images/species/snake-129/dis.png",
+            "provinces": [
+                "福建省",
+                "台湾省",
+                "广东省",
+                "广西壮族自治区",
+                "贵州省",
+                "四川省",
+                "重庆市",
+                "湖北省",
+                "湖南省",
+                "江西省",
+                "安徽省",
+                "浙江省",
+                "陕西省",
+                "甘肃省"
+            ],
+            "cover": "assets/images/species/snake-129/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-129/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-129/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-129/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-129/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-130",
+            "uniqueId": "17a2657dec68432cbffabe36925f19fc",
+            "cnName": "百花锦蛇",
+            "sciName": "Elaphe moellendorffi",
+            "enName": "Moellendorff's ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以鼠类, 鸟类, 蜥蜴, 蛙类为食。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "广西,广东,贵州",
+            "disImg": "assets/images/species/snake-130/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "广东省",
+                "贵州省"
+            ],
+            "cover": "assets/images/species/snake-130/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-130/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-130/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-130/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-130/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-131",
+            "uniqueId": "a094822e153f4b9e8ba79aad31600bfc",
+            "cnName": "老挝白环蛇",
+            "sciName": "Lycodon laoensis",
+            "enName": "Laotian wolfsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。白天通常隐藏在树林地面的落叶中。如果受到挑衅，会试图逃跑，但如果被逼入绝境，则会发起攻击。",
+            "diet": "主要以小蜥蜴和小型哺乳动物为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-131/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-131/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-131/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-131/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-131/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-131/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-132",
+            "uniqueId": "7b98acfc74484eefb00d1f0314124275",
+            "cnName": "团花锦蛇",
+            "sciName": "Elaphe davidi",
+            "enName": "David's ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以蛙类，蛇，蜥蜴为食。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "黑龙江,吉林,辽宁,内蒙古,北京,天津,河北,山西,陕西,山东",
+            "disImg": "assets/images/species/snake-132/dis.png",
+            "provinces": [
+                "黑龙江省",
+                "吉林省",
+                "辽宁省",
+                "内蒙古自治区",
+                "北京市",
+                "天津市",
+                "河北省",
+                "山西省",
+                "陕西省",
+                "山东省"
+            ],
+            "cover": "assets/images/species/snake-132/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-132/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-132/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-132/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-132/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-133",
+            "uniqueId": "8400ddb38a704b169332c33c7240c214",
+            "cnName": "横斑锦蛇",
+            "sciName": "Euprepiophis perlaceus",
+            "enName": "Pearl-banded ratsnake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以小型哺乳动物，啮齿动物和蜥蜴为食。",
+            "size": "约 1 m",
+            "teeth": "",
+            "distribution": "四川",
+            "disImg": "assets/images/species/snake-133/dis.png",
+            "provinces": [
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-133/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-133/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-133/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-133/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-133/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-134",
+            "uniqueId": "52ce1959566643668fd9588a52b54792",
+            "cnName": "黑线乌梢蛇",
+            "sciName": "Ptyas nigromarginata",
+            "enName": "Green rat snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。行动迅速，如果受到惊扰，会迅速逃跑。",
+            "diet": "主要以蜥蜴，青蛙，啮齿动物，鸟类为食。",
+            "size": "约 1.7 m",
+            "teeth": "",
+            "distribution": "四川,云南,西藏,贵州",
+            "disImg": "assets/images/species/snake-134/dis.png",
+            "provinces": [
+                "四川省",
+                "云南省",
+                "西藏自治区",
+                "贵州省"
+            ],
+            "cover": "assets/images/species/snake-134/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-134/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-134/2.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-134/3.png",
+                    "desc": "幼年"
+                },
+                {
+                    "img": "assets/images/species/snake-134/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-135",
+            "uniqueId": "7caffb33bb934cb0852513515aac29ef",
+            "cnName": "方花蛇",
+            "sciName": "Archelaphe bella",
+            "enName": "Square-spotted kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。行动敏捷，性情比较温顺，受威胁时会快速逃跑。",
+            "diet": "主要以蜥蜴，蛙类为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "福建,江西,湖南,广东,广西,云南,贵州,四川,重庆",
+            "disImg": "assets/images/species/snake-135/dis.png",
+            "provinces": [
+                "福建省",
+                "江西省",
+                "湖南省",
+                "广东省",
+                "广西壮族自治区",
+                "云南省",
+                "贵州省",
+                "四川省",
+                "重庆市"
+            ],
+            "cover": "assets/images/species/snake-135/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-135/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-135/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-135/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-135/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-136",
+            "uniqueId": "bc6096795ba2417db3ac5ecebb444df8",
+            "cnName": "银山过树蛇",
+            "sciName": "Dendrelaphis ngansonensis",
+            "enName": "Nganson bronzeback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "树栖，主要在白天活动。",
+            "diet": "主要以蛙类，蜥蜴为食。",
+            "size": "约 90 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-136/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-136/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-136/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-136/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-136/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-136/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-137",
+            "uniqueId": "5444df4c7e8243bdafa31c70ce9b6f23",
+            "cnName": "南方链蛇",
+            "sciName": "Lycodon meridionalis",
+            "enName": "Southern wolf snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以蜥蜴为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "广西,云南",
+            "disImg": "assets/images/species/snake-137/dis.png",
+            "provinces": [
+                "广西壮族自治区",
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-137/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-137/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-137/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-137/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-137/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-138",
+            "uniqueId": "971649a74068473aa501c0d36c2b1991",
+            "cnName": "南峰锦蛇",
+            "sciName": "Elaphe hodgsoni",
+            "enName": "Hodgson's rat snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以啮齿动物，蟾蜍和石龙子为食。",
+            "size": "约 90 cm",
+            "teeth": "",
+            "distribution": "西藏",
+            "disImg": "assets/images/species/snake-138/dis.png",
+            "provinces": [
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-138/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-138/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-138/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-138/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-138/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-139",
+            "uniqueId": "5e84d497744f4850b33cd30bbe58e806",
+            "cnName": "山溪后棱蛇",
+            "sciName": "Opisthotropis latouchii",
+            "enName": "Latouch's stream snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖，主要在夜间活动，如果受到惊扰，会试图逃入水中。性情非常温和，即使被激怒或被抓，也不会咬人或采取防御姿态。",
+            "diet": "主要以水蛭为食。 ",
+            "size": "约 30 cm",
+            "teeth": "",
+            "distribution": "福建,广东,广西,贵州,重庆,湖南,江西,安徽,浙江",
+            "disImg": "assets/images/species/snake-139/dis.png",
+            "provinces": [
+                "福建省",
+                "广东省",
+                "广西壮族自治区",
+                "贵州省",
+                "重庆市",
+                "湖南省",
+                "江西省",
+                "安徽省",
+                "浙江省"
+            ],
+            "cover": "assets/images/species/snake-139/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-139/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-139/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-139/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-139/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-140",
+            "uniqueId": "4338166eb41849e1b232a16bc6ac41a7",
+            "cnName": "台北腹链蛇",
+            "sciName": "Hebius miyajimae",
+            "enName": "Taibei keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水栖",
+            "diet": "主要以蛙类，蝌蚪为食。 ",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "台湾",
+            "disImg": "assets/images/species/snake-140/dis.png",
+            "provinces": [
+                "台湾省"
+            ],
+            "cover": "assets/images/species/snake-140/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-140/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-140/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-140/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-140/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-141",
+            "uniqueId": "568ca93df0fa46c29e9edee9901e5f33",
+            "cnName": "缅甸颈斑蛇",
+            "sciName": "Plagiopholis nuchalis",
+            "enName": "Burmese neck-blotched snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，受到威胁时，会抬起前身并放平颈部。",
+            "diet": "主要以青蛙，蜥蜴和蠕虫为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-141/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-141/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-141/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-141/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-141/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-141/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-142",
+            "uniqueId": "ee965c6b959242a2b31be3bae483d9fa",
+            "cnName": "白链蛇",
+            "sciName": "Lycodon septentrionalis",
+            "enName": "White banded wolf snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。",
+            "diet": "主要以青蛙和蜥蜴为食。",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "云南,西藏",
+            "disImg": "assets/images/species/snake-142/dis.png",
+            "provinces": [
+                "云南省",
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-142/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-142/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-142/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-142/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-142/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-143",
+            "uniqueId": "c2debf9a490040888f4d74f35de03aef",
+            "cnName": "莽山后棱蛇",
+            "sciName": "Opisthotropis cheni",
+            "enName": "Chen's stream snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "水栖",
+            "diet": "主要以水蛭为食。 ",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "湖南,广东,广西",
+            "disImg": "assets/images/species/snake-143/dis.png",
+            "provinces": [
+                "湖南省",
+                "广东省",
+                "广西壮族自治区"
+            ],
+            "cover": "assets/images/species/snake-143/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-143/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-143/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-143/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-143/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-144",
+            "uniqueId": "cd70073686a443bb88f749d1d4995b92",
+            "cnName": "蓝眼绿锦蛇",
+            "sciName": "Gonyosoma coeruleum",
+            "enName": "Green Tree Racer",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以小型哺乳动物，蜥蜴和鸟类为食。\n",
+            "size": "约 80 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-144/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-144/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-144/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-144/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-144/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-144/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-145",
+            "uniqueId": "122d2a1998b847af83f0e9d6fdfa1985",
+            "cnName": "红脊扁头蛇",
+            "sciName": "Platyceps rhodorachis",
+            "enName": "Common cliff racer",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。能在岩石地形上快速移动。非常胆小，当有人靠近时，会躲进岩石裂缝中。",
+            "diet": "主要以蜥蜴，两栖动物和啮齿动物为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "西藏",
+            "disImg": "assets/images/species/snake-145/dis.png",
+            "provinces": [
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-145/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-145/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-145/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-145/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-145/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-146",
+            "uniqueId": "f399a15d9d3d489088fba24e84329f8e",
+            "cnName": "饰纹小头蛇",
+            "sciName": "Oligodon ornatus",
+            "enName": "Ornate kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，全天活跃。如果受到惊扰，会逃跑，如果被抓住，会立即发起攻击，后齿可以造成很大的伤口。",
+            "diet": "主要以爬行动物的卵为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "浙江,福建,台湾,江西,湖南,广西,四川,广东,安徽",
+            "disImg": "assets/images/species/snake-146/dis.png",
+            "provinces": [
+                "浙江省",
+                "福建省",
+                "台湾省",
+                "江西省",
+                "湖南省",
+                "广西壮族自治区",
+                "四川省",
+                "广东省",
+                "安徽省"
+            ],
+            "cover": "assets/images/species/snake-146/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-146/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-146/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-146/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-146/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-147",
+            "uniqueId": "4815d6f650384a1786da0acf9410fe7b",
+            "cnName": "横斑钝头蛇",
+            "sciName": "Pareas macularius",
+            "enName": "Mountain slug-eating snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。具有强烈的树栖倾向。性情温顺。即使被接近和触摸，也不会咬人。",
+            "diet": "主要以蛞蝓，蜗牛为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "云南,贵州,广西,广东,海南",
+            "disImg": "assets/images/species/snake-147/dis.png",
+            "provinces": [
+                "云南省",
+                "贵州省",
+                "广西壮族自治区",
+                "广东省",
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-147/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-147/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-147/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-147/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-147/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-148",
+            "uniqueId": "adda2ef86d3a439d8a7361f7bfd0572b",
+            "cnName": "喜山小头蛇",
+            "sciName": "Oligodon albocinctus",
+            "enName": "Light-barred kukri snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，全天活跃。如果受到惊扰，会逃跑，如果被抓住，会立即发起攻击，后齿可以造成很大的伤口。\n\n",
+            "diet": "主要以老鼠，爬行动物的卵为食。",
+            "size": "约 40 cm",
+            "teeth": "",
+            "distribution": "云南,西藏",
+            "disImg": "assets/images/species/snake-148/dis.png",
+            "provinces": [
+                "云南省",
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-148/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-148/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-148/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-148/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-148/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-149",
+            "uniqueId": "26a3a59ae8e94d3184f28e90495d5077",
+            "cnName": "棱鳞钝头蛇",
+            "sciName": "Pareas carinatus",
+            "enName": "Keeled slug-eating snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在夜间活动。具有强烈的树栖倾向。性情温顺。即使被接近和触摸，也不会咬人。",
+            "diet": "主要以蛞蝓，蜗牛为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "云南",
+            "disImg": "assets/images/species/snake-149/dis.png",
+            "provinces": [
+                "云南省"
+            ],
+            "cover": "assets/images/species/snake-149/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-149/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-149/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-149/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-149/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-150",
+            "uniqueId": "eb95ce67c9774d1b9f69ed4232a876b8",
+            "cnName": "八线腹链蛇",
+            "sciName": "Hebius octolineatus",
+            "enName": "Eight-lined keelback",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "半水生蛇。",
+            "diet": "主要以鱼，青蛙为食。",
+            "size": "约 60 cm",
+            "teeth": "",
+            "distribution": "云南,广西,贵州,四川",
+            "disImg": "assets/images/species/snake-150/dis.png",
+            "provinces": [
+                "云南省",
+                "广西壮族自治区",
+                "贵州省",
+                "四川省"
+            ],
+            "cover": "assets/images/species/snake-150/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-150/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-150/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-150/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-150/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-151",
+            "uniqueId": "ee54542194f34d94a5eac86e047711dc",
+            "cnName": "坎氏锦蛇",
+            "sciName": "Elaphe cantoris",
+            "enName": "Eastern trinket snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以啮齿动物，小型哺乳动物为食。",
+            "size": "约 1.2 m",
+            "teeth": "",
+            "distribution": "西藏",
+            "disImg": "assets/images/species/snake-151/dis.png",
+            "provinces": [
+                "西藏自治区"
+            ],
+            "cover": "assets/images/species/snake-151/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-151/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-151/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-151/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-151/4.png",
+                    "desc": "幼年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        },
+        {
+            "id": "snake-152",
+            "uniqueId": "e9d83100b01f49c4a619735a362b8126",
+            "cnName": "黑领剑蛇",
+            "sciName": "Sibynophis collaris",
+            "enName": "Collared many-toothed snake",
+            "category": "无毒蛇",
+            "toxicity": "无毒",
+            "toxicityComponent": "",
+            "bite": "无影响或仅有轻微局部疼痛和肿胀，无全身影响。",
+            "habit": "陆生，主要在白天活动。",
+            "diet": "主要以小蜥蜴，青蛙为食。",
+            "size": "约 50 cm",
+            "teeth": "",
+            "distribution": "西藏,云南,广西,广东,海南",
+            "disImg": "assets/images/species/snake-152/dis.png",
+            "provinces": [
+                "西藏自治区",
+                "云南省",
+                "广西壮族自治区",
+                "广东省",
+                "海南省"
+            ],
+            "cover": "assets/images/species/snake-152/cover.png",
+            "images": [
+                {
+                    "img": "assets/images/species/snake-152/1.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-152/2.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-152/3.png",
+                    "desc": "成年"
+                },
+                {
+                    "img": "assets/images/species/snake-152/4.png",
+                    "desc": "成年"
+                }
+            ],
+            "firstAid": [
+                "远离蛇的攻击范围。",
+                "记住蛇的基本特征，最好拍摄蛇的照片方便他人辨认。",
+                "保持冷静，紧张的情绪会加速血液循环，促进毒素吸收。",
+                "尽快去医院是最有效的急救措施，切忌等到出现中毒症状再送医。",
+                "摘掉受伤肢体饰物，如戒指、手镯、手表、脚链、脱去紧身衣袖或裤子等，以免加重局部伤害，伤口可用清水简单冲洗。",
+                "减少活动，活动有促进毒素吸收的风险，保持坐位或斜靠位，受伤部位应保持在心脏水平以下，这样会减少回心血量，减缓毒素吸收和扩散。",
+                "保持呼吸通畅。如患者恶心，有发生呕吐风险的，应将伤者置于侧卧位，可以有效减缓呕吐。如发生意识丧失、呼吸心跳停止，立即心肺复苏。",
+                "不要触摸蛇头，因为即使是死蛇也可能有毒。不要通过等待症状发作确定是否中毒。不要使用止血带包扎。不要用刀去切割伤口。不要用嘴吸出毒素。不要用冰敷或将伤口浸入冰水中。不要饮酒或喝咖啡饮料。不要烧灼伤口。"
+            ]
+        }
+    ]
+};

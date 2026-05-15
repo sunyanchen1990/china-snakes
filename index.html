@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="中国境内蛇类资料速查" />
+    <meta name="theme-color" content="#050908" />
+    <link rel="manifest" href="manifest.json" />
+    <title>中国境内蛇类资料速查</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="index.html">sunyanchen</a>
+      <nav class="nav" aria-label="主导航">
+        <a href="index.html" aria-current="page">首页</a>
+        <a href="browse.html">按省检索</a>
+        <a href="first-aid.html">急救速查</a>
+      </nav>
+    </header>
+
+    <main class="hero">
+      <div class="hero__bg" aria-hidden="true">
+        <div class="hero__bg-img"></div>
+        <div class="hero__bg-shade"></div>
+      </div>
+      <div class="hero__inner">
+        <h1><em>中国境内蛇类</em>资料速查</h1>
+        <p class="lead">收录中国境内蛇类相关资料，支持按省份浏览与名称筛选。可离线使用。</p>
+        <div class="hero__actions">
+          <a class="btn btn-primary cta" href="browse.html">进入按省检索</a>
+          <a class="btn cta" href="first-aid.html">急救速查</a>
+        </div>
+        <p class="hero__offline" id="offline-status" hidden></p>
+      </div>
+      <div class="stats" role="region" aria-label="数据统计">
+        <div class="stat">
+          <b id="home-n-species">—</b>
+          <span>物种条目</span>
+        </div>
+        <div class="stat stat--risk">
+          <b id="home-n-deadly">—</b>
+          <span>剧毒蛇</span>
+        </div>
+        <div class="stat">
+          <b id="home-n-mild">—</b>
+          <span>微毒蛇</span>
+        </div>
+        <div class="stat">
+          <b id="home-n-harmless">—</b>
+          <span>无毒蛇</span>
+        </div>
+        <div class="stat">
+          <b id="home-n-provinces">—</b>
+          <span>涉及省级区划</span>
+        </div>
+        <button type="button" class="stat stat--donate" id="donate-trigger" aria-haspopup="dialog" aria-expanded="false" aria-controls="donate-modal">
+          <b>打赏</b>
+          <span>扫码支持</span>
+        </button>
+      </div>
+    </main>
+
+    <div id="donate-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="donate-modal-title" hidden>
+      <button type="button" class="modal__backdrop" id="donate-backdrop" aria-label="关闭"></button>
+      <div class="modal__panel">
+        <button type="button" class="modal__close" id="donate-close" aria-label="关闭">&times;</button>
+        <h2 class="modal__title" id="donate-modal-title">感谢支持</h2>
+        <img id="donate-qr-img" class="modal__qr" src="assets/images/donate-qrcode.jpg" width="220" height="220" alt="收款二维码" decoding="async" />
+      </div>
+    </div>
+
+    <p class="foot">
+      <strong>免责声明：</strong>
+      本站资料仅供参考，不构成医疗建议。蛇咬伤请立即就医；勿冒险挑逗或徒手捕捉蛇类。
+    </p>
+
+    <script src="data/snakes.data.js"></script>
+    <script src="assets/home-app.js" defer></script>
+    <script src="assets/sw-register.js" defer></script>
+  </body>
+</html>

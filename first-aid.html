@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="蛇咬伤急救速查 · 中国境内蛇类资料速查" />
+    <meta name="theme-color" content="#050908" />
+    <link rel="manifest" href="manifest.json" />
+    <title>急救速查 · 中国境内蛇类资料速查</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="index.html">sunyanchen</a>
+      <nav class="nav" aria-label="主导航">
+        <a href="index.html">首页</a>
+        <a href="browse.html">按省检索</a>
+        <a href="first-aid.html" aria-current="page">急救速查</a>
+      </nav>
+    </header>
+
+    <main class="page page--aid">
+      <div class="page__inner">
+        <h1>蛇咬伤急救速查</h1>
+        <p class="intro intro--risk">
+          被咬后<strong>立即拨打 120</strong>并尽快就医。以下步骤仅供等待救援时参考，<strong>不能替代专业医疗</strong>。
+        </p>
+
+        <div class="aid-emergency">
+          <a class="aid-call" href="tel:120">拨打 120</a>
+          <p class="aid-call-hint">保持冷静，说明地点、伤者状态，询问最近蛇伤救治医院。</p>
+        </div>
+
+        <section class="aid-panel" aria-labelledby="aid-do-title">
+          <h2 id="aid-do-title">立即要做</h2>
+          <ol class="aid-steps aid-steps--do">
+            <li>远离蛇，勿再挑逗或徒手捕捉。</li>
+            <li>记住蛇的颜色、大小、花纹；<strong>安全前提下拍照</strong>便于医生辨认。</li>
+            <li>保持冷静，减少走动，防止毒素扩散。</li>
+            <li>尽快送医，<strong>不要等出现严重症状</strong>再去医院。</li>
+            <li>摘除伤肢戒指、手镯、手表等饰物；脱去过紧的衣袖或裤腿。</li>
+            <li>伤口可用<strong>清水轻轻冲洗</strong>，用干净敷料覆盖。</li>
+            <li>受伤肢体保持在<strong>心脏水平以下</strong>，尽量静坐或斜靠。</li>
+            <li>保持呼吸道通畅；若呕吐，将伤者置于侧卧位。</li>
+            <li>若意识丧失、呼吸心跳停止，立即心肺复苏并持续至急救人员到达。</li>
+          </ol>
+        </section>
+
+        <section class="aid-panel aid-panel--risk" aria-labelledby="aid-dont-title">
+          <h2 id="aid-dont-title">切勿这样做</h2>
+          <ul class="aid-steps aid-steps--dont">
+            <li>不要用嘴吸出毒液。</li>
+            <li>不要用刀切开或挤压伤口。</li>
+            <li>不要使用止血带扎紧伤肢。</li>
+            <li>不要用冰敷或把伤口浸入冰水。</li>
+            <li>不要饮酒、喝咖啡或擅自服用药物。</li>
+            <li>不要烧灼伤口。</li>
+            <li>不要触摸死蛇头部（仍可能有毒）。</li>
+            <li>不要因暂时无症状而延误就医。</li>
+          </ul>
+        </section>
+
+        <section class="aid-panel" aria-labelledby="aid-type-title">
+          <h2 id="aid-type-title">按毒性类型注意</h2>
+          <div class="aid-tabs" role="tablist">
+            <button type="button" class="aid-tab is-on" role="tab" aria-selected="true" data-aid-tab="deadly">剧毒蛇</button>
+            <button type="button" class="aid-tab" role="tab" aria-selected="false" data-aid-tab="mild">微毒蛇</button>
+            <button type="button" class="aid-tab" role="tab" aria-selected="false" data-aid-tab="harmless">无毒蛇</button>
+          </div>
+          <div class="aid-tab-panels">
+            <div class="aid-tab-panel is-on" data-aid-panel="deadly" role="tabpanel">
+              <p>常见表现为局部肿痛、瘀斑、坏死，或神经毒素导致的<strong>眼睑下垂、吞咽困难、肌肉无力、呼吸衰竭</strong>等。务必告知医生可能的蛇种，使用对应抗蛇毒血清需专业判断。</p>
+              <p class="aid-note">神经毒症状可能延迟出现，<strong>即使初期症状轻微也要就医</strong>。</p>
+            </div>
+            <div class="aid-tab-panel" data-aid-panel="mild" role="tabpanel" hidden>
+              <p>毒性较弱，但仍可能引起局部肿胀、疼痛、头晕恶心等。不要因「毒性不大」而忽视，应到医院评估并处理伤口，预防感染。</p>
+            </div>
+            <div class="aid-tab-panel" data-aid-panel="harmless" role="tabpanel" hidden>
+              <p>一般无系统性毒素，但牙痕可能造成感染或过敏反应。清洗消毒伤口，观察 24 小时；若肿胀持续加重、发热或过敏症状，仍应就医。</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="aid-panel" aria-labelledby="aid-deadly-list-title">
+          <h2 id="aid-deadly-list-title">收录剧毒蛇种（点击查看资料）</h2>
+          <div id="aid-deadly-grid" class="aid-species-grid" aria-live="polite"></div>
+        </section>
+      </div>
+    </main>
+
+    <p class="foot">
+      <strong>免责声明：</strong>
+      本站资料仅供参考，不构成医疗建议。蛇咬伤请立即就医。
+    </p>
+
+    <script src="data/snakes.data.js"></script>
+    <script src="assets/snake-utils.js"></script>
+    <script src="assets/first-aid-app.js" defer></script>
+    <script src="assets/sw-register.js" defer></script>
+  </body>
+</html>

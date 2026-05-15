@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="按省份检索中国境内蛇类资料" />
+    <meta name="theme-color" content="#050908" />
+    <link rel="manifest" href="manifest.json" />
+    <title>按省检索 · 中国境内蛇类资料速查</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="index.html">sunyanchen</a>
+      <nav class="nav" aria-label="主导航">
+        <a href="index.html">首页</a>
+        <a href="browse.html" aria-current="page">按省检索</a>
+        <a href="first-aid.html">急救速查</a>
+      </nav>
+    </header>
+
+    <main class="page page--browse">
+      <div class="page__bg" aria-hidden="true">
+        <div class="page__bg-img page__bg-img--browse"></div>
+        <div class="page__bg-shade page__bg-shade--browse"></div>
+      </div>
+      <div class="page__inner">
+        <h1>按省检索</h1>
+        <p class="intro">
+          可在第一框选择<strong>省级行政区</strong>后点击「加载列表」；也可<strong>只填第二框</strong>按物种中文名在全国筛选（多个词用空格隔开表示名称中需同时包含）。两框都填时，先在所选省区筛选，再按名称缩小范围。
+        </p>
+
+        <form class="toolbar" id="f-search" autocomplete="off">
+          <div>
+            <label for="f-province">省份 / 自治区 / 直辖市</label>
+            <input
+              class="input"
+              id="f-province"
+              name="province"
+              type="text"
+              placeholder="例如：广东省"
+              list="f-province-list"
+            />
+            <datalist id="f-province-list"></datalist>
+          </div>
+          <div>
+            <label for="f-keyword">名称筛选（可选）</label>
+            <input
+              class="input"
+              id="f-keyword"
+              type="text"
+              autocomplete="off"
+              placeholder="如：竹叶青、银环…"
+            />
+          </div>
+          <button class="btn btn-primary" type="submit">加载列表</button>
+        </form>
+
+        <div class="status" id="f-status" aria-live="polite"></div>
+        <div class="cards" id="f-list"></div>
+      </div>
+    </main>
+
+    <p class="foot">
+      <strong>免责声明：</strong>
+      本站资料仅供参考，不构成医疗建议。蛇咬伤请立即就医。
+    </p>
+
+    <!-- 桌面端：缩略图悬停放大预览 -->
+    <div
+      id="browse-hover-zoom"
+      class="browse-hover-zoom"
+      aria-hidden="true"
+    >
+      <img src="" alt="" decoding="async" />
+    </div>
+    <!-- 手机端：缩略图点击全屏查看 -->
+    <div id="browse-lightbox" class="browse-lightbox" hidden>
+      <button
+        type="button"
+        class="browse-lightbox__backdrop"
+        aria-label="关闭预览"
+      ></button>
+      <div class="browse-lightbox__panel" role="dialog" aria-modal="true">
+        <button type="button" class="browse-lightbox__close" aria-label="关闭">
+          ×
+        </button>
+        <img class="browse-lightbox__img" src="" alt="" decoding="async" />
+      </div>
+    </div>
+
+    <script src="assets/vendor/echarts.min.js"></script>
+    <script src="assets/dist-map.js"></script>
+    <script src="data/snakes.data.js"></script>
+    <script src="assets/browse-app.js" defer></script>
+    <script src="assets/sw-register.js" defer></script>
+  </body>
+</html>

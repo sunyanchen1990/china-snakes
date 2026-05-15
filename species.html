@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="中国境内蛇类物种详情" />
+    <meta name="theme-color" content="#050908" />
+    <link rel="manifest" href="manifest.json" />
+    <title>物种详情 · 中国境内蛇类资料速查</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="index.html">sunyanchen</a>
+      <nav class="nav" aria-label="主导航">
+        <a href="index.html">首页</a>
+        <a href="browse.html">按省检索</a>
+        <a href="first-aid.html">急救速查</a>
+      </nav>
+    </header>
+
+    <main class="page page--species">
+      <div class="page__inner">
+        <nav class="crumb" aria-label="面包屑">
+          <a href="index.html">首页</a>
+          <span aria-hidden="true">/</span>
+          <a href="browse.html">按省检索</a>
+          <span aria-hidden="true">/</span>
+          <span id="crumb-name">物种详情</span>
+        </nav>
+        <div id="species-root" class="species-root" aria-live="polite"></div>
+      </div>
+    </main>
+
+    <p class="foot">
+      <strong>免责声明：</strong>
+      本站资料仅供参考，不构成医疗建议。蛇咬伤请立即就医。
+      <a class="foot__link" href="first-aid.html">查看急救速查 →</a>
+    </p>
+
+    <div id="browse-lightbox" class="browse-lightbox" hidden>
+      <button type="button" class="browse-lightbox__backdrop" aria-label="关闭预览"></button>
+      <div class="browse-lightbox__panel" role="dialog" aria-modal="true">
+        <button type="button" class="browse-lightbox__close" aria-label="关闭">×</button>
+        <img class="browse-lightbox__img" src="" alt="" decoding="async" />
+      </div>
+    </div>
+
+    <script src="assets/vendor/echarts.min.js"></script>
+    <script src="assets/dist-map.js"></script>
+    <script src="data/snakes.data.js"></script>
+    <script src="assets/snake-utils.js"></script>
+    <script src="assets/species-app.js" defer></script>
+    <script src="assets/sw-register.js" defer></script>
+  </body>
+</html>
