@@ -1,8 +1,8 @@
 (function () {
   if (!("serviceWorker" in navigator)) return;
+  if (document.documentElement.classList.contains("is-ios")) return;
 
   window.addEventListener("load", function () {
-    /* 清除旧版缓存（曾在 iOS Safari 上导致白屏） */
     if ("caches" in window) {
       caches.keys().then(function (keys) {
         keys.forEach(function (k) {
@@ -10,7 +10,6 @@
         });
       });
     }
-
     navigator.serviceWorker
       .register("sw.js", { scope: "./", updateViaCache: "none" })
       .catch(function () {});

@@ -32,7 +32,11 @@
   if (elP) elP.textContent = c ? String(c) : "—";
 
   var offlineEl = document.getElementById("offline-status");
-  if (offlineEl && "serviceWorker" in navigator) {
+  if (
+    offlineEl &&
+    "serviceWorker" in navigator &&
+    !document.documentElement.classList.contains("is-ios")
+  ) {
     offlineEl.hidden = false;
     if (navigator.onLine) {
       offlineEl.textContent =
